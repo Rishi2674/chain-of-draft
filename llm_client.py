@@ -1,43 +1,46 @@
 import os
+import requests
+from dotenv import load_dotenv
 
-from anthropic import Anthropic
-from openai import OpenAI
-
+load_dotenv()
 
 class LLMClient:
-    def __init__(self, base_url: str = None, api_key: str = None):
-        self.openai_client = OpenAI(base_url=base_url, api_key=api_key or os.getenv("OPENAI_API_KEY") or "EMPTY")
-        self.anthropic_client = Anthropic()
+    def __init__(self, base_url: str = "https://openrouter.ai/api/v1", api_key: str = None):
+        self.base_url = base_url
+        self.api_key = os.getenv("OPENROUTER_KEY")
 
-    def request(
-        self,
-        payload: str,
-        model: str,
-        temperature: float = 0.0,
-        max_tokens: int = 4096,
-    ) -> tuple[str, int]:
-        if model.startswith("claude"):
-            message = self.anthropic_client.messages.create(
-                messages=[{"role": "user", "content": payload}],
-                model=model,
-                temperature=temperature,
-                max_tokens=max_tokens,
-            )
-            response = message.content[0].text
-            token_count = message.usage.output_tokens
+        if not self.api_key:
+            raise ValueError("OpenRouter API key is missing. Please set OPENROUTER_API_KEY in your environment variables.")
+
+    def request(self, payload: str, model: str, temperature: float = 0.0, max_tokens: int = 4096) -> tuple[str, int]:
+        headers = {
+            "Authorization": f"Bearer {self.api_key}",
+            "Content-Type": "application/json",
+        }
+
+        data = {
+            "model": model,
+            "messages": [{"role": "user", "content": payload}],
+            "temperature": temperature,
+            "max_tokens": max_tokens,
+        }
+
+        response = requests.post(f"{self.base_url}/chat/completions", json=data, headers=headers)
+        # print("response received: ", response)
+        if response.status_code == 200:
+            response_json = response.json()
+            # print(response_json)
+            message_content = response_json["choices"][0]["message"]["content"]
+            # print(message_content)
+            token_count = response_json["usage"]["completion_tokens"]  # Some models might not return token count
+            return message_content, token_count
         else:
-            completion = self.openai_client.chat.completions.create(
-                messages=[{"role": "user", "content": payload}],
-                model=model,
-                temperature=temperature,
-                max_tokens=max_tokens,
-            )
-            response = completion.choices[0].message.content
-            token_count = completion.usage.completion_tokens
-        return response, token_count
+            print("Error:", response.json())
+            return "Error in LLM request", 0
 
 
-if __name__ == "__main__":
-    llm = LLMClient()
-    response, count = llm.request("hello", "claude-3-7-sonnet-latest")
-    print(response, count)
+# if __name__ == "__main__":
+#     api_key = os.getenv("OPENROUTER_KEY")
+#     llm = LLMClient(api_key=api_key)
+#     response, count = llm.request("Name the capital of Russia.", "google/gemini-2.0-flash-lite-preview-02-05:free")
+#     print(response, count)

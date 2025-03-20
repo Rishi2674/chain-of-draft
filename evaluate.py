@@ -10,10 +10,8 @@ from tasks.sports import SportsUnderstanding
 from utils import average, nth_percentile
 
 MODEL_MAPPING = {
-    "gpt-4o": "gpt-4o-2024-08-06",
-    "gpt-4o-mini": "gpt-4o-mini-2024-07-18",
-    "sonnet": "claude-3-5-sonnet-20240620",
-    "haiku": "claude-3-5-haiku-20241022",
+    "deepseek": "deepseek/deepseek-r1:free",
+    "gemini": "google/gemini-2.0-flash-lite-preview-02-05:free",
 }
 
 if __name__ == "__main__":
@@ -44,7 +42,7 @@ if __name__ == "__main__":
     )
 
     args = parser.parse_args()
-    llm_client = LLMClient(args.url, args.api_key)
+    llm_client = LLMClient()
     match args.task:
         case "gsm8k":
             task = GSM8K(llm_client)
