@@ -91,3 +91,4 @@ if __name__ == "__main__":
     with open(f"./results/{fname}.csv", "w") as f:
         writer = csv.writer(f)
         writer.writerows(results)
+    

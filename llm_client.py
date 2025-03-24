@@ -12,7 +12,7 @@ class LLMClient:
         if not self.api_key:
             raise ValueError("OpenRouter API key is missing. Please set OPENROUTER_API_KEY in your environment variables.")
 
-    def request(self, payload: str, model: str, temperature: float = 0.0, max_tokens: int = 4096) -> tuple[str, int]:
+    def request(self, payload: str, model: str, temperature: float = 0.1, max_tokens: int = 4096) -> tuple[str, int]:
         headers = {
             "Authorization": f"Bearer {self.api_key}",
             "Content-Type": "application/json",
@@ -39,8 +39,8 @@ class LLMClient:
             return "Error in LLM request", 0
 
 
-# if __name__ == "__main__":
-#     api_key = os.getenv("OPENROUTER_KEY")
-#     llm = LLMClient(api_key=api_key)
-#     response, count = llm.request("Name the capital of Russia.", "google/gemini-2.0-flash-lite-preview-02-05:free")
-#     print(response, count)
+if __name__ == "__main__":
+    api_key = os.getenv("OPENROUTER_KEY")
+    llm = LLMClient(api_key=api_key)
+    response, count = llm.request("A coin is heads up. Alejandro flips the coin. Carrie does not flip the coin. Darrell does not flip the coin. Lucas does not flip the coin. Is the coin still heads up?", "google/gemini-2.0-flash-lite-preview-02-05:free")
+    print(response, count)
