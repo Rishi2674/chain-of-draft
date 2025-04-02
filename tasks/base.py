@@ -30,10 +30,12 @@ class Task(ABC):
     def evaluate_example(self, model: str, config: Config, shot: int, example: Example) -> bool:
         # prepare payload
         payload = compose_request(config, shot, example.question)
-
+        # print("composed request: ", payload)
         # run inference
         start_time = time.time()
         response, token_count = self.llm.request(payload, model)
+        # print("response: ", response)
+        # print("token count: ", token_count)
         end_time = time.time()
         self.token_count_tracker.append(token_count)
         self.latency_tracker.append(end_time - start_time)
@@ -46,6 +48,8 @@ class Task(ABC):
             print(f"Example: {example.question}")
             print(f"Expected: {expected_answer}, Predicted: {predicted_answer}")
             print(f"Full response: {response}")
+        else:
+            print("Example evaluated successfully!\n")
         return equal
 
     def evaluate(self, model: str, config: Literal["baseline", "cot", "cod"], shot: int = None) -> float:

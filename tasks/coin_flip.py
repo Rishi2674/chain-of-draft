@@ -2,6 +2,7 @@ import json
 import os
 import random
 from typing import List
+import re
 
 from names_dataset import NameDataset
 
@@ -9,7 +10,7 @@ from llm_client import LLMClient
 from tasks.base import Task
 from utils import Example
 
-TEST_SET_SIZE = 250
+TEST_SET_SIZE = 100
 
 
 class CoinFlip(Task):
@@ -56,26 +57,54 @@ class CoinFlip(Task):
                 data.append(Example.model_validate(example))
         return data
 
+    # def extract_answer(self, raw_response: str) -> str:
+    #     raw_response = raw_response.strip()
+    #     try:
+    #         if raw_response.lower() == "yes":
+    #             return "Yes"
+    #         if raw_response.lower() == "no":
+    #             return "No"
+    #         raise ValueError()
+    #     except ValueError:
+    #         pass
+
+    #     try:
+    #         answer = raw_response.split("####")[1]
+    #         return self.extract_answer(answer)
+    #     except Exception:
+    #         pass
+
+        # print("Failed to extract answer from the following response:")
+        # print(raw_response)
+        # return "N/A"
+
     def extract_answer(self, raw_response: str) -> str:
-        raw_response = raw_response.strip()
-        try:
-            if raw_response.lower() == "yes":
-                return "Yes"
-            if raw_response.lower() == "no":
-                return "No"
-            raise ValueError()
-        except ValueError:
-            pass
+    
+        raw_response = raw_response.strip()  # Remove extra spaces
 
-        try:
-            answer = raw_response.split("####")[1]
-            return self.extract_answer(answer)
-        except Exception:
-            pass
+        # Remove prefixes like "A:"
+        raw_response = re.sub(r"^\s*[A-Za-z]+:\s*", "", raw_response)
 
-        print("Failed to extract answer from the following response:")
-        print(raw_response)
-        return "N/A"
+        # Normalize case
+        normalized_response = raw_response.lower()
+
+        # Handle Yes/No answers
+        if normalized_response in ["yes", "no"]:
+            return raw_response  # Return original case ("Yes" or "No")
+
+        # Check for "####" delimiter
+        if "####" in raw_response:
+            parts = raw_response.split("####")
+            if len(parts) > 1:
+                return self.extract_answer(parts[1].strip())  # Recursive call
+
+        # Print error only if the response is completely unrecognized
+        if raw_response not in ["Yes", "No"]:
+            print("Failed to extract a direct Yes/No answer. Returning raw response:")
+            print(raw_response)
+
+        return raw_response  # Return whatever was extracted
+
 
     def equal(self, predicted_answer: str, expected_answer: str) -> bool:
         return predicted_answer == expected_answer
