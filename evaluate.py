@@ -11,13 +11,13 @@ from utils import average, nth_percentile
 
 MODEL_MAPPING = {
     "deepseek": "deepseek/deepseek-r1:free",
-    "gemini": "google/gemini-2.0-flash-lite-preview-02-05:free",
+    "gemini": "google/gemini-2.5-pro-exp-03-25:free",
 }
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--task", choices=["gsm8k", "date", "sports", "coin_flip"])
-    parser.add_argument("--model", default="claude3.5")
+    parser.add_argument("--model", default="deepseek")
     parser.add_argument(
         "--prompt",
         choices=["baseline", "cod", "cot"],

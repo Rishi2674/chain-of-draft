@@ -31,7 +31,7 @@ class LLMClient:
             response_json = response.json()
             # print(response_json)
             message_content = response_json["choices"][0]["message"]["content"]
-            # print(message_content)
+            print(message_content)
             token_count = response_json["usage"]["completion_tokens"]  # Some models might not return token count
             return message_content, token_count
         else:
@@ -39,8 +39,8 @@ class LLMClient:
             return "Error in LLM request", 0
 
 
-if __name__ == "__main__":
-    api_key = os.getenv("OPENROUTER_KEY")
-    llm = LLMClient(api_key=api_key)
-    response, count = llm.request("A coin is heads up. Alejandro flips the coin. Carrie does not flip the coin. Darrell does not flip the coin. Lucas does not flip the coin. Is the coin still heads up?", "google/gemini-2.0-flash-lite-preview-02-05:free")
-    print(response, count)
+# if __name__ == "__main__":
+#     api_key = os.getenv("OPENROUTER_KEY")
+#     llm = LLMClient(api_key=api_key)
+#     response, count = llm.request("A coin is heads up. Alejandro flips the coin. Carrie does not flip the coin. Darrell does not flip the coin. Lucas does not flip the coin. Is the coin still heads up?", "deepseek/deepseek-r1:free")
+#     print(response, count)
