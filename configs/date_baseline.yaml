@@ -1,7 +1,7 @@
 system_prompt: |
   Answer the question directly with a date.
   Use "%m/%d/%Y" format with day and month zero-padded.
-  Do not return any preamble, explanation, or reasoning.
+  Do not return any preamble, explanation, or reasoning and strictly do not use any external tools.
 format: |
   Q: {question}
   A: {answer}
