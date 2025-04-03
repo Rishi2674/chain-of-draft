@@ -1,0 +1,680 @@
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract a direct Yes/No answer. Returning raw response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: A coin is heads up. Moe flips the coin. Dolores does not flip the coin. Lexi flips the coin. Caroline flips the coin. Is the coin still heads up?
+Expected: No, Predicted: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract a direct Yes/No answer. Returning raw response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: A coin is heads up. Dakota does not flip the coin. Devon flips the coin. Dee flips the coin. Camille does not flip the coin. Is the coin still heads up?
+Expected: Yes, Predicted: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+A: No
+Example evaluated successfully!
+
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract a direct Yes/No answer. Returning raw response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: A coin is heads up. Harold flips the coin. Mandy flips the coin. Keith flips the coin. Brittney flips the coin. Is the coin still heads up?
+Expected: Yes, Predicted: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract a direct Yes/No answer. Returning raw response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: A coin is heads up. Misael does not flip the coin. Luke flips the coin. Ricardo does not flip the coin. Francisca flips the coin. Is the coin still heads up?
+Expected: Yes, Predicted: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract a direct Yes/No answer. Returning raw response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: A coin is heads up. Cristina does not flip the coin. Evelyn does not flip the coin. Bobby does not flip the coin. Troy flips the coin. Is the coin still heads up?
+Expected: No, Predicted: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract a direct Yes/No answer. Returning raw response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: A coin is heads up. Julie does not flip the coin. Rocio does not flip the coin. Pepe flips the coin. Tito does not flip the coin. Is the coin still heads up?
+Expected: No, Predicted: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract a direct Yes/No answer. Returning raw response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: A coin is heads up. Erica flips the coin. Trey flips the coin. Beth flips the coin. Jeff flips the coin. Is the coin still heads up?
+Expected: Yes, Predicted: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract a direct Yes/No answer. Returning raw response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: A coin is heads up. Tanner does not flip the coin. Juan flips the coin. Tatiana does not flip the coin. Norma does not flip the coin. Is the coin still heads up?
+Expected: No, Predicted: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract a direct Yes/No answer. Returning raw response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: A coin is heads up. Angelina does not flip the coin. Prince flips the coin. Bruno flips the coin. Kris flips the coin. Is the coin still heads up?
+Expected: No, Predicted: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract a direct Yes/No answer. Returning raw response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: A coin is heads up. Jessica flips the coin. Glenn does not flip the coin. Vicky does not flip the coin. Matthew flips the coin. Is the coin still heads up?
+Expected: Yes, Predicted: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract a direct Yes/No answer. Returning raw response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: A coin is heads up. Morgan does not flip the coin. Darren flips the coin. Esther flips the coin. Shirley does not flip the coin. Is the coin still heads up?
+Expected: Yes, Predicted: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract a direct Yes/No answer. Returning raw response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: A coin is heads up. Ellen flips the coin. June flips the coin. Carmen flips the coin. Alfonso flips the coin. Is the coin still heads up?
+Expected: Yes, Predicted: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract a direct Yes/No answer. Returning raw response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: A coin is heads up. Luke does not flip the coin. Karla does not flip the coin. Miranda flips the coin. Shelley does not flip the coin. Is the coin still heads up?
+Expected: No, Predicted: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: Yes
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+A: No
+Example evaluated successfully!
+
+Accuracy: 0.896
+Avg Token #: 320.072
+Average Latency (s): 8.047982221603393
+P90 Latency (s): 12.649389028549194
+P95 Latency (s): 24.943798780441284
+P99 Latency (s): 26.78894805908203

@@ -1,5 +1,5 @@
 system_prompt: |
-  Think step by step to answer the following question.
+  Think step by step and answer directly without calling external tools.
   Return the "Yes" or "No" at the end of the response after a separator ####.
 format: |
   Q: {question}

@@ -10,7 +10,7 @@ from llm_client import LLMClient
 from tasks.base import Task
 from utils import Example
 
-TEST_SET_SIZE = 100
+TEST_SET_SIZE = 125
 
 
 class CoinFlip(Task):

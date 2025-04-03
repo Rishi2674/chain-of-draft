@@ -31,7 +31,7 @@ class LLMClient:
             response_json = response.json()
             # print(response_json)
             message_content = response_json["choices"][0]["message"]["content"]
-            print(message_content)
+            # print(message_content)
             token_count = response_json["usage"]["completion_tokens"]  # Some models might not return token count
             return message_content, token_count
         else:
