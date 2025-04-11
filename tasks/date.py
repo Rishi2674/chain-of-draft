@@ -1,6 +1,7 @@
 import json
 from datetime import datetime
 from typing import List
+import re
 
 from llm_client import LLMClient
 from tasks.base import Task
@@ -26,14 +27,21 @@ class DateUnderstanding(Task):
 
     def extract_answer(self, raw_response: str) -> str:
         raw_response = raw_response.strip()
-        try:
-            datetime.strptime(raw_response, "%m/%d/%Y")
-            return raw_response
-        except ValueError:
-            pass
 
+        # First try: search for a valid date format within the string using regex
+        date_match = re.search(r'\d{2}/\d{2}/\d{4}', raw_response)
+        if date_match:
+            date_str = date_match.group()
+            try:
+                # Validate the date format
+                datetime.strptime(date_str, "%m/%d/%Y")
+                return date_str
+            except ValueError:
+                pass
+
+        # Second try: extract answer using the "####" separator
         try:
-            answer = raw_response.split("####")[1]
+            answer = raw_response.split("####")[1].strip()
             return self.extract_answer(answer)
         except Exception:
             pass
@@ -44,3 +52,7 @@ class DateUnderstanding(Task):
 
     def equal(self, predicted_answer: str, expected_answer: str) -> bool:
         return predicted_answer == expected_answer
+
+# date = DateUnderstanding("deepseek")
+# response = "A: 04/01/2021"
+# print(date.extract_answer(response))

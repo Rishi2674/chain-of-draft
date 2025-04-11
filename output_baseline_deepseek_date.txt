@@ -1,0 +1,659 @@
+Failed to extract answer from the following response:
+A: 05/01/2021
+Example: Yesterday was April 30, 2021. What is the date today in MM/DD/YYYY?
+Expected: 05/01/2021, Predicted: N/A
+Full response: A: 05/01/2021
+Failed to extract answer from the following response:
+A: 05/02/2021
+Example: Yesterday was April 30, 2021. What is the date tomorrow in MM/DD/YYYY?
+Expected: 05/02/2021, Predicted: N/A
+Full response: A: 05/02/2021
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response> 
+Example: Yesterday was April 30, 2021. What is the date yesterday in MM/DD/YYYY?
+Expected: 04/30/2021, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 04/01/2021
+Example: Yesterday was April 30, 2021. What is the date a month ago in MM/DD/YYYY?
+Expected: 04/01/2021, Predicted: N/A
+Full response: A: 04/01/2021
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 04/24/2021
+Example: Yesterday was April 30, 2021. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 04/24/2021, Predicted: N/A
+Full response: A: 04/24/2021
+Failed to extract answer from the following response:
+A: 05/08/2021
+Example: Yesterday was April 30, 2021. What is the date one week from today in MM/DD/YYYY?
+Expected: 05/08/2021, Predicted: N/A
+Full response: A: 05/08/2021
+Failed to extract answer from the following response:
+A: 05/02/2021
+Example: Yesterday was April 30, 2021. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 05/02/2021, Predicted: N/A
+Full response: A: 05/02/2021
+Failed to extract answer from the following response:
+A: 05/30/2021
+Example: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date today in MM/DD/YYYY?
+Expected: 05/30/2021, Predicted: N/A
+Full response: A: 05/30/2021
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date tomorrow in MM/DD/YYYY?
+Expected: 05/31/2021, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract answer from the following response:
+A: 05/29/2021
+Example: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date yesterday in MM/DD/YYYY?
+Expected: 05/29/2021, Predicted: N/A
+Full response: A: 05/29/2021
+Example evaluated successfully!
+
+Example: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date a month ago in MM/DD/YYYY?
+Expected: 04/30/2021, Predicted: 05/30/2021
+Full response: 05/30/2021
+Failed to extract answer from the following response:
+A: 05/30/2020
+Example: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 05/30/2020, Predicted: N/A
+Full response: A: 05/30/2020
+Failed to extract answer from the following response:
+A: 05/23/2021
+Example: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 05/23/2021, Predicted: N/A
+Full response: A: 05/23/2021
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 05/31/2021
+Example: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 05/31/2021, Predicted: N/A
+Full response: A: 05/31/2021
+Failed to extract answer from the following response:
+A: 11/11/2019
+Example: Tomorrow is 11/12/2019. What is the date today in MM/DD/YYYY?
+Expected: 11/11/2019, Predicted: N/A
+Full response: A: 11/11/2019
+Failed to extract answer from the following response:
+A: 11/12/2019
+Example: Tomorrow is 11/12/2019. What is the date tomorrow in MM/DD/YYYY?
+Expected: 11/12/2019, Predicted: N/A
+Full response: A: 11/12/2019
+Failed to extract answer from the following response:
+A: 11/10/2019
+Example: Tomorrow is 11/12/2019. What is the date yesterday in MM/DD/YYYY?
+Expected: 11/10/2019, Predicted: N/A
+Full response: A: 11/10/2019
+Failed to extract answer from the following response:
+A: 11/01/2019
+Example: Tomorrow is 11/12/2019. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 11/01/2019, Predicted: N/A
+Full response: A: 11/01/2019
+Failed to extract answer from the following response:
+A: 10/11/2019
+Example: Tomorrow is 11/12/2019. What is the date a month ago in MM/DD/YYYY?
+Expected: 10/11/2019, Predicted: N/A
+Full response: A: 10/11/2019
+Failed to extract answer from the following response:
+A: 11/11/2018
+Example: Tomorrow is 11/12/2019. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 11/11/2018, Predicted: N/A
+Full response: A: 11/11/2018
+Failed to extract answer from the following response:
+A: 11/04/2019
+Example: Tomorrow is 11/12/2019. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 11/04/2019, Predicted: N/A
+Full response: A: 11/04/2019
+Failed to extract answer from the following response:
+A: 11/18/2019
+Example: Tomorrow is 11/12/2019. What is the date one week from today in MM/DD/YYYY?
+Expected: 11/18/2019, Predicted: N/A
+Full response: A: 11/18/2019
+Failed to extract answer from the following response:
+A: 11/12/2019
+Example: Tomorrow is 11/12/2019. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 11/12/2019, Predicted: N/A
+Full response: A: 11/12/2019
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 08/04/1997
+Example: Today, 8/3/1997, is a day that we will never forget. What is the date tomorrow in MM/DD/YYYY?
+Expected: 08/04/1997, Predicted: N/A
+Full response: A: 08/04/1997
+Failed to extract answer from the following response:
+A: 08/02/1997
+Example: Today, 8/3/1997, is a day that we will never forget. What is the date yesterday in MM/DD/YYYY?
+Expected: 08/02/1997, Predicted: N/A
+Full response: A: 08/02/1997
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: Today, 8/3/1997, is a day that we will never forget. What is the date one week from today in MM/DD/YYYY?
+Expected: 08/10/1997, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract answer from the following response:
+A: 08/04/1997
+Example: Today, 8/3/1997, is a day that we will never forget. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 08/04/1997, Predicted: N/A
+Full response: A: 08/04/1997
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: Today is Sep 9, 1909. What is the date today in MM/DD/YYYY?
+Expected: 09/09/1909, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 09/08/1909
+Example: Today is Sep 9, 1909. What is the date yesterday in MM/DD/YYYY?
+Expected: 09/08/1909, Predicted: N/A
+Full response: A: 09/08/1909
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 09/10/1909
+Example: Today is Sep 9, 1909. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 09/10/1909, Predicted: N/A
+Full response: A: 09/10/1909
+Failed to extract answer from the following response:
+A: 04/19/1969
+Example: It is 4/19/1969 today. What is the date today in MM/DD/YYYY?
+Expected: 04/19/1969, Predicted: N/A
+Full response: A: 04/19/1969
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: It is 4/19/1969 today. What is the date yesterday in MM/DD/YYYY?
+Expected: 04/18/1969, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: It is 4/19/1969 today. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 04/09/1969, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: It is 4/19/1969 today. What is the date a month ago in MM/DD/YYYY?
+Expected: 03/19/1969, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: It is 4/19/1969 today. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 04/19/1968, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 04/26/1969
+Example: It is 4/19/1969 today. What is the date one week from today in MM/DD/YYYY?
+Expected: 04/26/1969, Predicted: N/A
+Full response: A: 04/26/1969
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 03/01/2016
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date tomorrow in MM/DD/YYYY?
+Expected: 03/01/2016, Predicted: N/A
+Full response: A: 03/01/2016
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date yesterday in MM/DD/YYYY?
+Expected: 02/28/2016, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract answer from the following response:
+A: 02/19/2016
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 02/19/2016, Predicted: N/A
+Full response: A: 02/19/2016
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 02/22/2016, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one week from today in MM/DD/YYYY?
+Expected: 03/07/2016, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract answer from the following response:
+A: 03/01/2016
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 03/01/2016, Predicted: N/A
+Full response: A: 03/01/2016
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 03/01/2017
+Example: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date tomorrow in MM/DD/YYYY?
+Expected: 03/01/2017, Predicted: N/A
+Full response: A: 03/01/2017
+Failed to extract answer from the following response:
+A: 02/27/2017
+Example: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date yesterday in MM/DD/YYYY?
+Expected: 02/27/2017, Predicted: N/A
+Full response: A: 02/27/2017
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 01/28/2017
+Example: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date a month ago in MM/DD/YYYY?
+Expected: 01/28/2017, Predicted: N/A
+Full response: A: 01/28/2017
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 02/21/2017
+Example: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 02/21/2017, Predicted: N/A
+Full response: A: 02/21/2017
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 03/01/2017
+Example: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 03/01/2017, Predicted: N/A
+Full response: A: 03/01/2017
+Failed to extract answer from the following response:
+A: 01/02/2008
+Example: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date today in MM/DD/YYYY?
+Expected: 01/02/2008, Predicted: N/A
+Full response: A: 01/02/2008
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 01/01/2008
+Example: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date yesterday in MM/DD/YYYY?
+Expected: 01/01/2008, Predicted: N/A
+Full response: A: 01/01/2008
+Failed to extract answer from the following response:
+A: 12/23/2007
+Example: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 12/23/2007, Predicted: N/A
+Full response: A: 12/23/2007
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date a month ago in MM/DD/YYYY?
+Expected: 12/02/2007, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract answer from the following response:
+A: 01/02/2007
+Example: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 01/02/2007, Predicted: N/A
+Full response: A: 01/02/2007
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 12/26/2007, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 01/03/2008
+Example: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 01/03/2008, Predicted: N/A
+Full response: A: 01/03/2008
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date today in MM/DD/YYYY?
+Expected: 12/01/2019, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract answer from the following response:
+A: 12/02/2019
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date tomorrow in MM/DD/YYYY?
+Expected: 12/02/2019, Predicted: N/A
+Full response: A: 12/02/2019
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date yesterday in MM/DD/YYYY?
+Expected: 11/30/2019, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract answer from the following response:
+A: 11/21/2019
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 11/21/2019, Predicted: N/A
+Full response: A: 11/21/2019
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 12/01/2018
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 12/01/2018, Predicted: N/A
+Full response: A: 12/01/2018
+Failed to extract answer from the following response:
+A: 11/24/2019
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 11/24/2019, Predicted: N/A
+Full response: A: 11/24/2019
+Failed to extract answer from the following response:
+A: 12/08/2019
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one week from today in MM/DD/YYYY?
+Expected: 12/08/2019, Predicted: N/A
+Full response: A: 12/08/2019
+Failed to extract answer from the following response:
+A: 12/02/2019
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 12/02/2019, Predicted: N/A
+Full response: A: 12/02/2019
+Example evaluated successfully!
+
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date tomorrow in MM/DD/YYYY?
+Expected: 09/13/2020, Predicted: 09/14/2020
+Full response: 09/14/2020
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date yesterday in MM/DD/YYYY?
+Expected: 09/11/2020, Predicted: 09/10/2020
+Full response: 09/10/2020
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 09/05/2020
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 09/05/2020, Predicted: N/A
+Full response: A: 09/05/2020
+Failed to extract answer from the following response:
+A: 09/19/2020
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one week from today in MM/DD/YYYY?
+Expected: 09/19/2020, Predicted: N/A
+Full response: A: 09/19/2020
+Failed to extract answer from the following response:
+A: 09/13/2020
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 09/13/2020, Predicted: N/A
+Full response: A: 09/13/2020
+Failed to extract answer from the following response:
+A: 12/30/2014
+Example: 2015 is coming in 36 hours. What is the date today in MM/DD/YYYY?
+Expected: 12/29/2014, Predicted: N/A
+Full response: A: 12/30/2014
+Example: 2015 is coming in 36 hours. What is the date tomorrow in MM/DD/YYYY?
+Expected: 12/30/2014, Predicted: 12/31/2014
+Full response: 12/31/2014
+Example: 2015 is coming in 36 hours. What is the date yesterday in MM/DD/YYYY?
+Expected: 12/28/2014, Predicted: 12/29/2014
+Full response: 12/29/2014
+Example: 2015 is coming in 36 hours. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 12/19/2014, Predicted: 12/20/2014
+Full response: 12/20/2014
+Example: 2015 is coming in 36 hours. What is the date a month ago in MM/DD/YYYY?
+Expected: 11/29/2014, Predicted: 11/30/2014
+Full response: 11/30/2014
+Example: 2015 is coming in 36 hours. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 12/29/2013, Predicted: 12/30/2013
+Full response: 12/30/2013
+Example: 2015 is coming in 36 hours. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 12/22/2014, Predicted: 12/23/2014
+Full response: 12/23/2014
+Failed to extract answer from the following response:
+
+Example: 2015 is coming in 36 hours. What is the date one week from today in MM/DD/YYYY?
+Expected: 01/05/2015, Predicted: N/A
+Full response: 
+Example: 2015 is coming in 36 hours. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 12/30/2014, Predicted: 12/31/2014
+Full response: 12/31/2014
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date today in MM/DD/YYYY?
+Expected: 01/02/1987, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 01/01/1987
+Example: In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date yesterday in MM/DD/YYYY?
+Expected: 01/01/1987, Predicted: N/A
+Full response: A: 01/01/1987
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 01/25/1987
+Example: In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 12/26/1986, Predicted: N/A
+Full response: A: 01/25/1987
+Failed to extract answer from the following response:
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Example: In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date one week from today in MM/DD/YYYY?
+Expected: 01/09/1987, Predicted: N/A
+Full response: <tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+<tool_response>
+Failed to extract answer from the following response:
+A: 01/03/1987
+Example: In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 01/03/1987, Predicted: N/A
+Full response: A: 01/03/1987
+Failed to extract answer from the following response:
+A: 07/28/2002
+Example: Jane booked a flight for tomorrow, Jul 29, 2002. What is the date today in MM/DD/YYYY?
+Expected: 07/28/2002, Predicted: N/A
+Full response: A: 07/28/2002
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 07/27/2002
+Example: Jane booked a flight for tomorrow, Jul 29, 2002. What is the date yesterday in MM/DD/YYYY?
+Expected: 07/27/2002, Predicted: N/A
+Full response: A: 07/27/2002
+Failed to extract answer from the following response:
+A: 07/18/2002
+Example: Jane booked a flight for tomorrow, Jul 29, 2002. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 07/18/2002, Predicted: N/A
+Full response: A: 07/18/2002
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Failed to extract answer from the following response:
+A: 07/21/2002
+Example: Jane booked a flight for tomorrow, Jul 29, 2002. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 07/21/2002, Predicted: N/A
+Full response: A: 07/21/2002
+Accuracy: 0.31451612903225806
+Avg Token #: 686.4677419354839
+Average Latency (s): 16.083329191130975
+P90 Latency (s): 30.91105890274048
+P95 Latency (s): 45.32404017448425
+P99 Latency (s): 75.42720341682434
