@@ -22,7 +22,7 @@ if __name__ == "__main__":
     parser.add_argument("--model", default="llama")
     parser.add_argument(
         "--prompt",
-        choices=["baseline", "cod", "cot"],
+        choices=["baseline", "cod_moderate", "cot","cod_soft","cod_strict"],
         default="cod",
         help="Prompting strategy",
     )
