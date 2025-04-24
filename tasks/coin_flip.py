@@ -7,7 +7,7 @@ import re
 from names_dataset import NameDataset
 
 from llm_client import LLMClient
-from tasks.base import Task
+from dataset_generator import Task
 from utils import Example
 
 TEST_SET_SIZE = 125

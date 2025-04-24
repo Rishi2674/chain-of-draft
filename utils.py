@@ -18,7 +18,7 @@ class Config(BaseModel):
 
 def load_config(task: Literal["gsm8k", "date"], config: Literal["baseline", "cot", "cod"]) -> Config:
     with open(f"./configs/{task}_{config}.yaml",encoding="utf-8") as f:
-        return Config.model_validate(yaml.safe_load(f))
+        return config,Config.model_validate(yaml.safe_load(f))
 
 
 def compose_request(config: Config, shot: int, question: str) -> str:
