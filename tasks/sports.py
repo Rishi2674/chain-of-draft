@@ -2,7 +2,7 @@ import json
 from typing import List
 
 from llm_client import LLMClient
-from dataset_generator import Task
+from tasks.base import Task
 from utils import Example
 
 

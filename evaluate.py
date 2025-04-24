@@ -20,7 +20,7 @@ if __name__ == "__main__":
     parser.add_argument("--model", default="llama")
     parser.add_argument(
         "--prompt",
-        choices=["baseline", "cod_moderate", "cot","cod_soft","cod_strict"],
+        choices=["baseline", "cod_moderate", "cot","cod_soft","cod_strict","pro_draft"],
         default="cod",
         help="Prompting strategy",
     )

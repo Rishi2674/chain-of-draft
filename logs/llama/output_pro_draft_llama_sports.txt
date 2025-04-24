@@ -1,0 +1,2156 @@
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_soft
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Jorge Soler entered the attacking zone
+Expected: No, Predicted: Yes
+Full response: Jorge: baseball; Attacking zone: hockey.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Joao Moutinho was out at third
+Expected: No, Predicted: Yes
+Full response: Joao: soccer; third: baseball.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Derrick White backhanded a shot
+Expected: No, Predicted: Yes
+Full response: Derrick: basketball; backhanded: hockey.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Nazem Kadri was out at home
+Expected: No, Predicted: Yes
+Full response: Nazem: hockey; out at home: baseball.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_moderate
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_moderate
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_soft
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_moderate
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Anders Lee drove into the restricted area
+Expected: No, Predicted: Yes
+Full response: Anders: hockey; Restricted area: hockey.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_moderate
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Kyle Anderson shot with the left foot
+Expected: No, Predicted: Yes
+Full response: Kyle: basketball; 
+left foot: soccer.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Elias Lindholm beat the buzzer
+Expected: No, Predicted: Yes
+Full response: Elias: hockey; buzzer: sports.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Chris Godwin was caught in a rundown in the American League Championship Series
+Expected: No, Predicted: Yes
+Full response: Chris: American football; 
+Rundown: baseball; 
+American League: baseball.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Sergio Ramos hit nothing but net
+Expected: No, Predicted: Yes
+Full response: Sergio: soccer; Net: basketball/soccer.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Will Fuller was perfect from the line
+Expected: No, Predicted: Yes
+Full response: Will: American football; 
+Line: basketball/free throw.
+
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Patrice Evra scored in the shootout
+Expected: No, Predicted: Yes
+Full response: Patrice: soccer; shootout: soccer.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Jerami Grant did a double stepover
+Expected: No, Predicted: Yes
+Full response: Jerami: basketball; double stepover: soccer.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Evgeni Malkin took a three
+Expected: No, Predicted: Yes
+Full response: Evgeni: hockey; three: shot/basket. 
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_moderate
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_moderate
+Example: Mark Stone earned an indirect kick in the FA Cup
+Expected: No, Predicted: Yes
+Full response: Mark: hockey; indirect kick: soccer.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Jamal Murray walked on ball four
+Expected: No, Predicted: Yes
+Full response: Jamal: basketball; ball four: baseball.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Jamal Murray went five hole
+Expected: No, Predicted: Yes
+Full response: Jamal: basketball; five hole: hockey.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Kyle Lowry was called for slashing
+Expected: No, Predicted: Yes
+Full response: Kyle: basketball; slashing: basketball.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Giancarlo Stanton launched a triple
+Expected: No, Predicted: Yes
+Full response: Giancarlo: baseball; launched: home run.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Eugenio Suarez pitched a complete game
+Expected: Yes, Predicted: No
+Full response: Eugenio: baseball; pitched: baseball.
+#### No
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Jamal Murray walked on ball four
+Expected: No, Predicted: Yes
+Full response: Jamal: basketball; ball four: baseball.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_moderate
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Didier Drogba hit nothing but net
+Expected: No, Predicted: Yes
+Full response: Didier: soccer; Net: soccer/basketball.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Ryan O'Reilly drove into the paint
+Expected: No, Predicted: Yes
+Full response: Ryan: hockey; Paint: basketball.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Mecole Hardman swung to protect the runner in the American League Championship Series
+Expected: No, Predicted: Yes
+Full response: Mecole: American football; 
+Swung: baseball; 
+Protect runner: baseball.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Mitchell Marner was out at second
+Expected: No, Predicted: Yes
+Full response: Mitchell: hockey; out at second: baseball.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Pedro struck out the side
+Expected: No, Predicted: Yes
+Full response: Pedro: baseball; struck out: baseball.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Tom Brady was safe at first
+Expected: No, Predicted: Yes
+Full response: Tom: American football; Safe at first: baseball.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Andrei Svechnikov got on the end of a through ball
+Expected: No, Predicted: Yes
+Full response: Andrei: hockey; through ball: soccer.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Will Fuller earned an indirect kick
+Expected: No, Predicted: Yes
+Full response: Will: American football; Indirect kick: soccer.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_moderate
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Adam Thielen performed a slide tackle
+Expected: No, Predicted: Yes
+Full response: Adam: American football; 
+Slide tackle: soccer.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Mikal Bridges backhanded a shot
+Expected: No, Predicted: Yes
+Full response: Mikal: basketball; backhanded: hockey.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Brent Burns went one for two from the line
+Expected: No, Predicted: Yes
+Full response: Brent: hockey; line: hockey.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Kwadwo Asamoah was flagged on the play
+Expected: No, Predicted: Yes
+Full response: Kwadwo: soccer; flagged: American football.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Timo Meier nutmegged the defender in the FA Cup
+Expected: No, Predicted: Yes
+Full response: Timo: hockey; nutmegged: soccer; FA Cup: soccer.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Chris Godwin earned an indirect kick
+Expected: No, Predicted: Yes
+Full response: Chris: American football; 
+Indirect kick: soccer.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_moderate
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Javier Pastore went five hole
+Expected: No, Predicted: Yes
+Full response: Javier: soccer; five hole: hockey.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Domantas Sabonis ran out of bounds
+Expected: No, Predicted: Yes
+Full response: Domantas: basketball; out of bounds: yes.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Ozzie Albies pitched a complete game
+Expected: Yes, Predicted: No
+Full response: Ozzie: baseball; pitched: baseball.
+#### No
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Nerlens Noel was out at home
+Expected: No, Predicted: Yes
+Full response: Nerlens: basketball; out at home: baseball.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Chris Paul  ran out of bounds
+Expected: No, Predicted: Yes
+Full response: Chris: basketball; bounds: sports.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Al Horford scored in the shootout
+Expected: No, Predicted: Yes
+Full response: Al: basketball; Shootout: hockey.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_moderate
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_moderate
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Mathew Barzal called for the screen
+Expected: No, Predicted: Yes
+Full response: Mathew: hockey; screen: hockey.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Michael Porter Jr. was out at home
+Expected: No, Predicted: Yes
+Full response: Michael: basketball; out at home: baseball.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Mike Williams scored a bicycle kick in the FA Cup
+Expected: No, Predicted: Yes
+Full response: Mike: soccer; bicycle kick: soccer; FA Cup: soccer.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: James Karinchak crossed the blue line
+Expected: No, Predicted: Yes
+Full response: James: baseball; crossed: hockey; blue line: hockey.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Buddy Hield crossed the blue line
+Expected: No, Predicted: Yes
+Full response: Buddy: basketball; blue line: hockey.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Frederik Andersen took a three
+Expected: No, Predicted: Yes
+Full response: Frederik: hockey; three: shot/basket. 
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example: Edinson Cavani hit nothing but net
+Expected: No, Predicted: Yes
+Full response: Edinson: soccer; Net: soccer.
+#### Yes
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+----------------------------------------
+Predicted Technique: cod_strict
+Example evaluated successfully!
+
+Accuracy: 0.906
+Avg Token #: 12.842
+Average Latency (s): 2.5088693437576293
+P90 Latency (s): 2.8628122806549072
+P95 Latency (s): 3.2264063358306885
+P99 Latency (s): 4.029322624206543

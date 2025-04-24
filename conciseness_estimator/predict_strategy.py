@@ -1,6 +1,6 @@
 import torch
 from transformers import BertTokenizer
-from model import ConcisenessClassifier
+from conciseness_estimator.model import ConcisenessClassifier
 import torch.nn.functional as F
 import pandas as pd
 

@@ -1,7 +1,7 @@
 from typing import List
 from datasets import load_dataset
 from llm_client import LLMClient
-from dataset_generator import Task
+from tasks.base import Task
 from utils import Example, extract_number_from_string
 
 

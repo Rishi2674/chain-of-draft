@@ -4,10 +4,10 @@ import random
 from typing import List
 import re
 
-from names_dataset import NameDataset
+# from names_dataset import NameDataset
 
 from llm_client import LLMClient
-from dataset_generator import Task
+from tasks.base import Task
 from utils import Example
 
 TEST_SET_SIZE = 125

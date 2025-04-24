@@ -51,9 +51,14 @@ class LLMClient:
                 return content, token_count
             except Exception as e:
                 if "503" in str(e):
-                    print(f"🚫 API error: {e}")
+                    print(f" API error: {e}")
                     self._rotate_key()
                     time.sleep(1)  # brief wait before retrying
+                elif "429" in str(e):
+                    print(f" Rate limit error: {e}")
+                    self._rotate_key()
+                    time.sleep(1)
+                    
                 else:
                     raise  # raise non-503 errors
         raise RuntimeError("All retries failed. Groq API seems unavailable.")
