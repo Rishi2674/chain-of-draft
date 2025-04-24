@@ -1,0 +1,1082 @@
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Liam Hendricks hit a double in the World Series
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Joao Moutinho was out at third
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Derrick White backhanded a shot
+Expected: No, Predicted: Yes
+Full response: Yes
+Example: Tuukka Rask crossed the blue line
+Expected: Yes, Predicted: No
+Full response: No
+Example: Nazem Kadri was out at home
+Expected: No, Predicted: Yes
+Full response: Yes
+Example: Jacob Markstrom backhanded a shot
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jose Ramirez hit into a double play in the National League Championship Series
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Darcy Kuemper scored on the power play
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jamison Crowder shot from beyond the arc
+Expected: No, Predicted: Yes
+Full response: Yes
+Example: Elias Pettersson was caught in a rundown
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Keenan Allen threw a touchdown
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Trae Young committed a blocking foul in the NBA Championship
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Anders Lee drove into the restricted area
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Elias Lindholm beat the buzzer
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Sergio Ramos hit nothing but net
+Expected: No, Predicted: Yes
+Full response: Yes
+Example: Will Fuller was perfect from the line
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Patrice Evra scored in the shootout
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: T.Y. Hilton threw a touchdown in the AFC divisional round
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Keenan Allen launched a hail mary
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example: Charlie Blackmon pitched a complete game
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jamal Murray walked on ball four
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jamal Murray went five hole
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example: Zach LaVine  hit a double
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Patrice Evra performed a give and go
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Diontae Johnson went for it on fourth down
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Kyle Lowry was called for slashing
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Eugenio Suarez pitched a complete game
+Expected: Yes, Predicted: No
+Full response: No
+Example: Eden Hazard airballed the shot
+Expected: No, Predicted: Yes
+Full response: Yes
+Example: Jamal Murray walked on ball four
+Expected: No, Predicted: Yes
+Full response: Yes
+Example: John Terry shot from the six yard line
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jesus Luzardo was called for slashing
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example: Mitchell Trubisky caught the screen pass
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Didier Drogba hit nothing but net
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Josh Allen caught the screen pass
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Golden Tate set the pick and roll
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Pedro struck out the side
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Kyle Tucker pitched a shutout
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Trae Young set the hard screen in the Eastern Conference Finals
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Brent Burns went one for two from the line
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Michael Thomas hit a double
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Kwadwo Asamoah was flagged on the play
+Expected: No, Predicted: Yes
+Full response: Yes
+Example: Mikal Bridges scored a windmill dunk
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example: Juan Soto took a long two
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example: Keenan Allen went for it on fourth down
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example: Jimmy Garoppolo caught the back shoulder fade
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Wayne Rooney beat the buzzer
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Javier Pastore went five hole
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Ben Simmons set the hard screen in the Western Conference Finals
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Domantas Sabonis ran out of bounds
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Liam Hendricks was safe at first
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example: Damian Lillard called for the screen in the Eastern Conference Finals
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example: Tuukka Rask passed the puck
+Expected: Yes, Predicted: No
+Full response: No
+Example: Ozzie Albies pitched a complete game
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Pete Alonso hit a triple in the World Series
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Norman Powell was called for the goal tend
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jayson Tatum nutmegged the defender
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example: Collin Sexton nutmegged the defender
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Giorgio Chiellini committed a handball in the FA Cup
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example: Tyler Glasnow threw to first base
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Michael Thomas took the snap
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Aaron Nola hit a walkoff homer
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: James Harden was called for the goal tend
+Expected: Yes, Predicted: No
+Full response: No
+Example: Kyle Lowry dunked the ball
+Expected: Yes, Predicted: No
+Full response: No
+Example: Nerlens Noel was out at home
+Expected: No, Predicted: Yes
+Full response: Yes
+Example: Chris Paul  ran out of bounds
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: A.J. Green hit the back shoulder fade in the Superbowl
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Chris Godwin converted the first down in the AFC divisional round
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Mathew Barzal called for the screen
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jamison Crowder airballed the shot
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Michael Porter Jr. was out at home
+Expected: No, Predicted: Yes
+Full response: Yes
+Example: Trevor Bauer swung to protect the runner in the World Series
+Expected: Yes, Predicted: No
+Full response: No
+Example: Moussa Dembele gained five yards
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Henry Ruggs launched a hail mary in the NFC championship
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Gerrit Cole converted the double play
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Adam Thielen changed direction in the backfield
+Expected: Yes, Predicted: No
+Full response: No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Edinson Cavani hit nothing but net
+Expected: No, Predicted: Yes
+Full response: Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Accuracy: 0.848
+Avg Token #: 1.0
+Average Latency (s): 2.2309981241226198
+P90 Latency (s): 2.36723256111145
+P95 Latency (s): 2.4571967124938965
+P99 Latency (s): 2.4698 410034179688

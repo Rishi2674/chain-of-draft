@@ -27,21 +27,14 @@ class DateUnderstanding(Task):
 
     def extract_answer(self, raw_response: str) -> str:
         raw_response = raw_response.strip()
-
-        # First try: search for a valid date format within the string using regex
-        date_match = re.search(r'\d{2}/\d{2}/\d{4}', raw_response)
-        if date_match:
-            date_str = date_match.group()
-            try:
-                # Validate the date format
-                datetime.strptime(date_str, "%m/%d/%Y")
-                return date_str
-            except ValueError:
-                pass
-
-        # Second try: extract answer using the "####" separator
         try:
-            answer = raw_response.split("####")[1].strip()
+            datetime.strptime(raw_response, "%m/%d/%Y")
+            return raw_response
+        except ValueError:
+            pass
+
+        try:
+            answer = raw_response.split("####")[1]
             return self.extract_answer(answer)
         except Exception:
             pass

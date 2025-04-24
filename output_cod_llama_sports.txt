@@ -1,0 +1,1134 @@
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jorge Soler entered the attacking zone
+Expected: No, Predicted: Yes
+Full response: Jorge: baseball; Attacking zone: hockey.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Joao Moutinho was out at third
+Expected: No, Predicted: Yes
+Full response: Joao: soccer; third: baseball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Derrick White backhanded a shot
+Expected: No, Predicted: Yes
+Full response: Derrick: basketball; backhanded: hockey.
+#### Yes
+Example evaluated successfully!
+
+Example: Nazem Kadri was out at home
+Expected: No, Predicted: Yes
+Full response: Nazem: hockey; out at home: baseball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Kyle Anderson skated backwards
+Expected: No, Predicted: Yes
+Full response: Kyle: basketball; skated: hockey.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Tom Wilson hit the back shoulder fade
+Expected: No, Predicted: Yes
+Full response: Tom: hockey; Back shoulder fade: football.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Keenan Allen threw a touchdown
+Expected: Yes, Predicted: No
+Full response: Keenan: football; threw: quarterback.
+#### No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Anders Lee drove into the restricted area
+Expected: No, Predicted: Yes
+Full response: Anders: hockey; Restricted area: hockey.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Kyle Anderson shot with the left foot
+Expected: No, Predicted: Yes
+Full response: Kyle: basketball; left foot: soccer.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Elias Lindholm beat the buzzer
+Expected: No, Predicted: Yes
+Full response: Elias: hockey; buzzer: sports term.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Sergio Ramos hit nothing but net
+Expected: No, Predicted: Yes
+Full response: Sergio: soccer; net: basketball/soccer.
+#### Yes
+Example: Will Fuller was perfect from the line
+Expected: No, Predicted: Yes
+Full response: Will: American football; line: football/kicker.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Patrice Evra scored in the shootout
+Expected: No, Predicted: Yes
+Full response: Patrice: soccer; shootout: soccer.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jerami Grant did a double stepover
+Expected: No, Predicted: Yes
+Full response: Jerami: basketball; double stepover: soccer.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Sam Darnold struck out
+Expected: No, Predicted: Yes
+Full response: Sam: American football; Struck out: baseball.
+#### Yes
+Example: Mark Stone earned an indirect kick in the FA Cup
+Expected: No, Predicted: Yes
+Full response: Mark: hockey; indirect kick: soccer.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Darijo Srna eurostepped to the basket
+Expected: No, Predicted: Yes
+Full response: Darijo: soccer; Eurostep: basketball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Mookie Betts skated behind the net
+Expected: No, Predicted: Yes
+Full response: Mookie: baseball; skated: hockey.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Logan Couture walked on ball four
+Expected: No, Predicted: Yes
+Full response: Logan: hockey; ball four: baseball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Rhys Hoskins scored a bicycle kick
+Expected: No, Predicted: Yes
+Full response: Rhys: baseball; bicycle kick: soccer.
+#### Yes
+Example evaluated successfully!
+
+Example: Jamal Murray walked on ball four
+Expected: No, Predicted: Yes
+Full response: Jamal: basketball; ball four: baseball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jamal Murray went five hole
+Expected: No, Predicted: Yes
+Full response: Jamal: basketball; five hole: hockey.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: John Carlson fumbled the ball
+Expected: No, Predicted: Yes
+Full response: John: hockey/NFL; Fumbled: football.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Mark Stone hit a triple
+Expected: No, Predicted: Yes
+Full response: Mark: hockey; triple: baseball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Kyle Lowry was called for slashing
+Expected: No, Predicted: Yes
+Full response: Kyle: basketball; slashing: yes.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Giancarlo Stanton launched a triple
+Expected: No, Predicted: Yes
+Full response: Giancarlo: baseball; launched: home run.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jamal Murray walked on ball four
+Expected: No, Predicted: Yes
+Full response: Jamal: basketball; ball four: baseball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Didier Drogba hit nothing but net
+Expected: No, Predicted: Yes
+Full response: Didier: soccer; net: soccer goal.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Ryan O'Reilly drove into the paint
+Expected: No, Predicted: Yes
+Full response: Ryan: hockey; Paint: basketball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Mitchell Marner was out at second
+Expected: No, Predicted: Yes
+Full response: Mitchell: hockey; out at second: baseball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Carlos Tevez was flagged on the play
+Expected: No, Predicted: Yes
+Full response: Carlos: soccer; flagged: American football.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: J.T. Miller threw to first base
+Expected: No, Predicted: Yes
+Full response: J.T.: hockey; threw: baseball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Dejounte Murray took a left footed shot
+Expected: No, Predicted: Yes
+Full response: Dejounte: basketball; left footed: unusual.
+#### Yes
+Example: Pedro struck out the side
+Expected: No, Predicted: Yes
+Full response: Pedro: baseball; struck out: baseball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Tom Brady was safe at first
+Expected: No, Predicted: Yes
+Full response: Tom: American football; Safe at first: baseball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Will Fuller earned an indirect kick
+Expected: No, Predicted: Yes
+Full response: Will: American football; Indirect kick: soccer.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Adam Thielen performed a slide tackle
+Expected: No, Predicted: Yes
+Full response: Adam: American football; Slide tackle: soccer.
+#### Yes
+Example: Travis Konecny did a maradona on the defender
+Expected: No, Predicted: Yes
+Full response: Travis: hockey; Maradona: soccer move.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Mikal Bridges backhanded a shot
+Expected: No, Predicted: Yes
+Full response: Mikal: basketball; backhanded: hockey.
+#### Yes
+Example evaluated successfully!
+
+Example: Brent Burns went one for two from the line
+Expected: No, Predicted: Yes
+Full response: Brent Burns: hockey; line: hockey/basketball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Michael Thomas hit a double
+Expected: No, Predicted: Yes
+Full response: Michael: football/soccer; double: baseball. 
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Kwadwo Asamoah was flagged on the play
+Expected: No, Predicted: Yes
+Full response: Kwadwo: soccer; flagged: American football.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Corbin Burnes scored in the shootout
+Expected: No, Predicted: Yes
+Full response: Corbin: baseball; Shootout: hockey.
+#### Yes
+Example: Wayne Rooney beat the buzzer
+Expected: No, Predicted: Yes
+Full response: Wayne Rooney: soccer; buzzer: basketball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jarrett Allen fumbled the ball
+Expected: No, Predicted: Yes
+Full response: Jarrett: basketball; Fumbled: football.
+#### Yes
+Example: Timo Meier nutmegged the defender in the FA Cup
+Expected: No, Predicted: Yes
+Full response: Timo: hockey; nutmeg: soccer.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Chris Godwin earned an indirect kick
+Expected: No, Predicted: Yes
+Full response: Chris: American football; Indirect kick: soccer.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Javier Pastore went five hole
+Expected: No, Predicted: Yes
+Full response: Javier: soccer; Five hole: hockey.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Domantas Sabonis ran out of bounds
+Expected: No, Predicted: Yes
+Full response: Domantas: basketball; out of bounds: yes.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Ozzie Albies pitched a complete game
+Expected: Yes, Predicted: No
+Full response: Ozzie: baseball; pitched: baseball.
+#### No
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Brandin Cooks was safe at home
+Expected: No, Predicted: Yes
+Full response: Brandin: American football; Safe at home: baseball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Robert Woods killed the powerplay
+Expected: No, Predicted: Yes
+Full response: Robert: American football; Powerplay: hockey.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Nerlens Noel was out at home
+Expected: No, Predicted: Yes
+Full response: Nerlens: basketball; out at home: baseball.
+#### Yes
+Example: Chris Paul  ran out of bounds
+Expected: No, Predicted: Yes
+Full response: Chris: basketball; out of bounds: yes.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Gordon Hayward was flagged on the play
+Expected: No, Predicted: Yes
+Full response: Gordon: basketball; flagged: American football.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Mathew Barzal called for the screen
+Expected: No, Predicted: Yes
+Full response: Mathew: hockey; screen: hockey/basketball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Delon Wright went for it on fourth down
+Expected: No, Predicted: Yes
+Full response: Delon: basketball; fourth down: football.
+#### Yes
+Example: Michael Porter Jr. was out at home
+Expected: No, Predicted: Yes
+Full response: Michael: basketball; out at home: baseball.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Miles Bridges hit the slant pass in the AFC divisional round
+Expected: No, Predicted: Yes
+Full response: Miles: basketball; Slant pass: football.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Mike Williams scored a bicycle kick in the FA Cup
+Expected: No, Predicted: Yes
+Full response: Mike: soccer; Bicycle kick: soccer.
+#### Yes
+Example: James Karinchak crossed the blue line
+Expected: No, Predicted: Yes
+Full response: James: baseball; blue line: hockey.
+#### Yes
+Example: Buddy Hield crossed the blue line
+Expected: No, Predicted: Yes
+Full response: Buddy: basketball; blue line: hockey.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Frederik Andersen took a three
+Expected: No, Predicted: Yes
+Full response: Frederik: hockey; three: unclear sport.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Edinson Cavani hit nothing but net
+Expected: No, Predicted: Yes
+Full response: Edinson: soccer; net: soccer goal.
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Accuracy: 0.872
+Avg Token #: 12.382
+Average Latency (s): 2.331700090885162
+P90 Latency (s): 2.5607426166534424
+P95 Latency (s): 2.593350648880005
+P99 Latency (s): 3.3103768825531006

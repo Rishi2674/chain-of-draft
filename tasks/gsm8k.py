@@ -15,6 +15,7 @@ class GSM8K(Task):
         data = []
         for example in load_dataset("openai/gsm8k", "main", split="test"):
             data.append(Example.model_validate(example))
+        data = data[:500]
         return data
 
     def extract_answer(self, raw_response: str) -> str:

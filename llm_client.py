@@ -1,56 +1,60 @@
 import os
-import requests
 from dotenv import load_dotenv
+from groq import Groq
 import tiktoken
+import random
+import time
 
 load_dotenv()
 
 class LLMClient:
-    def __init__(self, base_url: str = "https://openrouter.ai/api/v1", api_key: str = None):
-        self.base_url = base_url
-        self.api_key = os.getenv("OPENROUTER_KEY")
+    def __init__(self, model: str = "llama3-70b-8192", temperature: float = 0.1, max_tokens: int = 4096):
+        # Load multiple API keys
+        self.api_keys = [
+            os.getenv("GROQ_API_KEY_1"),
+            os.getenv("GROQ_API_KEY_2"),
+            os.getenv("GROQ_API_KEY_3"),
+            os.getenv("GROQ_API_KEY_4"),
+        ]
+        self.api_keys = [key for key in self.api_keys if key]  # Filter out None
+        if not self.api_keys:
+            raise ValueError("No Groq API keys found in environment variables.")
 
-        if not self.api_key:
-            raise ValueError("OpenRouter API key is missing. Please set OPENROUTER_API_KEY in your environment variables.")
+        self.model = model
+        self.temperature = temperature
+        self.max_tokens = max_tokens
+        self.tokenizer = tiktoken.encoding_for_model("gpt-4")
 
-    def request(self, payload: str, model: str, temperature: float = 0.1, max_tokens: int = 4096) -> tuple[str, int]:
-        enc = tiktoken.encoding_for_model("gpt-4")
-        headers = {
-            "Authorization": f"Bearer {self.api_key}",
-            "Content-Type": "application/json",
-        }
+        self.current_key_index = 0
+        self._set_client()
 
-        data = {
-            "model": model,
-            "messages": [{"role": "user", "content": payload}],
-            "temperature": temperature,
-            "max_tokens": max_tokens,
-            "tool_choice": "none",
-        }
+    def _set_client(self):
+        self.client = Groq(api_key=self.api_keys[self.current_key_index])
 
-        response = requests.post(f"{self.base_url}/chat/completions", json=data, headers=headers)
-        # print("response received: ", response)
-        if response.status_code == 200:
-            response_json = response.json()
-            # print(response_json)
-            message_content = response_json["choices"][0]["message"]["content"]
-            # print(message_content)
-            # token_count = response_json["usage"]["completion_tokens"]
-            tokens = enc.encode(message_content)
-            token_count = len(tokens)
-            # Some models might not return token count
-            return message_content, token_count
-        else:
-            print("Error:", response.json())
-            return "Error in LLM request", 0
+    def _rotate_key(self):
+        self.current_key_index = (self.current_key_index + 1) % len(self.api_keys)
+        print(f"Rotating to API key {self.current_key_index + 1}")
+        self._set_client()
 
+    def request(self, prompt: str, retries: int = 4) -> tuple[str, int]:
+        messages = [{"role": "user", "content": prompt}]
+        for attempt in range(retries):
+            try:
+                response = self.client.chat.completions.create(
+                    model=self.model,
+                    messages=messages,
+                    temperature=self.temperature,
+                    max_tokens=self.max_tokens
+                )
+                content = response.choices[0].message.content
+                token_count = len(self.tokenizer.encode(content))
+                return content, token_count
+            except Exception as e:
+                if "503" in str(e):
+                    print(f"🚫 API error: {e}")
+                    self._rotate_key()
+                    time.sleep(1)  # brief wait before retrying
+                else:
+                    raise  # raise non-503 errors
+        raise RuntimeError("All retries failed. Groq API seems unavailable.")
 
-# if __name__ == "__main__":
-#     api_key = os.getenv("OPENROUTER_KEY")
-#     enc = tiktoken.encoding_for_model("gpt-4")
-#     llm = LLMClient(api_key=api_key)
-#     response, count = llm.request("A coin is heads up. Alejandro flips the coin. Carrie does not flip the coin. Darrell does not flip the coin. Lucas does not flip the coin. Is the coin still heads up?", "deepseek/deepseek-r1:free")
-    
-#     tokens = enc.encode("A coin is heads up. Alejandro flips the coin. Carrie does not flip the coin. Darrell does not flip the coin. Lucas does not flip the coin. Is the coin still heads up?")
-#     print(f"Token count: {len(tokens)}")
-#     print(response, count)  

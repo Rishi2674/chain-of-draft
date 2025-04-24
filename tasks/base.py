@@ -33,7 +33,7 @@ class Task(ABC):
         # print("composed request: ", payload)
         # run inference
         start_time = time.time()
-        response, token_count = self.llm.request(payload, model)
+        response, token_count = self.llm.request(payload)
         # print("response: ", response)
         # print("token count: ", token_count)
         end_time = time.time()

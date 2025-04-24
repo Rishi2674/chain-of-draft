@@ -1,0 +1,1336 @@
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date today in MM/DD/YYYY?
+Expected: 02/29/2016, Predicted: 02/28/2016
+Full response: Let's break it down step by step:
+
+Jane was born on the last day of February in 2000. The last day of February in 2000 is 02/29/2000 (since 2000 is a leap year).
+
+Today is her 16-year-old birthday, which means 16 years have passed since her birth. To find the current year, add 16 to 2000: 2000 + 16 = 2016.
+
+Since her birthday is on the last day of February, which is 02/29, but 2016 is not a leap year, her birthday would be on 02/29/2000 + 16 years = 02/28/2016 (since 2016 is not a leap year).
+
+So, today is 02/28/2016.
+
+#### 02/28/2016
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 02/19/2016, Predicted: 02/20/2016
+Full response: Let's break it down step by step:
+
+1. Jane was born on the last day of February in 2000. The last day of February in 2000 is 02/29/2000 (leap year).
+2. Today is her 16-year-old birthday, so today's date is 16 years after her birthdate, which is 02/29/2000 + 16 years = 02/29/2016.
+3. However, 2016 is not a leap year, so February only has 28 days. Therefore, her 16-year-old birthday is on 03/01/2016 (not 02/29/2016).
+4. Now, we need to find the date 10 days ago. 10 days before 03/01/2016 is 02/20/2016.
+
+#### 02/20/2016
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date a month ago in MM/DD/YYYY?
+Expected: 01/29/2016, Predicted: 02/01/2016
+Full response: Let's break it down step by step:
+
+Jane was born on the last day of February in 2000. The last day of February in 2000 is 02/29/2000 (leap year).
+
+Today is her 16-year-old birthday, so today's date is 16 years after her birthdate, which is 02/29/2000 + 16 years = 02/29/2016.
+
+However, since 2016 is a leap year, February has 29 days, but in non-leap years, February has only 28 days. So, in 2016, the 29th of February doesn't exist. To find the correct birthday, we need to move to the next day, which is 03/01/2016.
+
+Now, we need to find the date a month ago. A month ago from 03/01/2016 is 02/01/2016.
+
+#### 02/01/2016
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one week from today in MM/DD/YYYY?
+Expected: 03/07/2016, Predicted: 03/08/2016
+Full response: Let's break it down step by step:
+
+1. Jane was born on the last day of February in 2000. Since 2000 is a leap year, the last day of February is February 29th. So, Jane's birthday is 02/29/2000.
+2. Today is her 16-year-old birthday, which means today's date is 16 years after her birthdate. Since 2000 is a leap year, we need to consider the leap year rules. The next leap year after 2000 is 2004, and then 2008, 2012, and 2016. Since 2016 is a leap year, Jane's 16th birthday would be on February 29th, 2016. However, since 2016 is a leap year, the next day after February 29th would be March 1st, not February 30th (which doesn't exist). So, today's date is 03/01/2016.
+3. Now, we need to find the date one week from today. One week from today would be 7 days after today, which is 03/08/2016.
+
+#### 03/08/2016
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date tomorrow in MM/DD/YYYY?
+Expected: 09/13/2020, Predicted: 09/17/2020
+Full response: Let's break it down step by step:
+
+1. Jane quit her job on Mar 20, 2020.
+2. 176 days have passed since then.
+3. To find the current date, we need to add 176 days to Mar 20, 2020.
+4. Let's calculate the number of months and days:
+   - 176 days ≈ 6 months (since 30 days/month ≈ 180 days/6 months)
+   - So, we add 6 months to Mar 20, 2020, which brings us to Sep 20, 2020.
+   - We still have some days left: 176 - 180 ≈ -4 days (since we overshot by 4 days)
+   - Subtracting 4 days from Sep 20, 2020, we get Sep 16, 2020.
+5. Therefore, today's date is Sep 16, 2020.
+6. Tomorrow's date would be Sep 17, 2020.
+
+#### 09/17/2020
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date yesterday in MM/DD/YYYY?
+Expected: 09/11/2020, Predicted: 09/15/2020
+Full response: Let's break it down step by step:
+
+1. Jane quit her job on Mar 20, 2020.
+2. 176 days have passed since then.
+3. To find the current date, we need to add 176 days to Mar 20, 2020.
+4. Let's calculate the number of months and days:
+   - 176 days ≈ 6 months (since 30 days/month ≈ 180 days/6 months)
+   - So, we add 6 months to Mar 20, 2020, which brings us to Sep 20, 2020.
+   - We still have some days left: 176 - 180 ≈ -4 days (since we overshot by 4 days)
+   - Subtract 4 days from Sep 20, 2020, which brings us to Sep 16, 2020.
+5. The question asks for the date yesterday, so we subtract 1 day from Sep 16, 2020, which gives us Sep 15, 2020.
+
+#### 09/15/2020
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 09/02/2020, Predicted: 09/03/2020
+Full response: Let's break it down step by step:
+
+1. Jane quit her job on Mar 20, 2020.
+2. 176 days have passed since then. To find the current date, we need to add 176 days to Mar 20, 2020.
+3. Let's calculate the current date:
+   - Mar 20, 2020 + 176 days = Sep 13, 2020 (approximately)
+4. Now, we need to find the date 10 days ago:
+   - Sep 13, 2020 - 10 days = Sep 03, 2020
+
+#### 09/03/2020
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date a month ago in MM/DD/YYYY?
+Expected: 08/12/2020, Predicted: 08/13/2020
+Full response: Let's break it down step by step:
+
+1. Jane quit her job on Mar 20, 2020.
+2. 176 days have passed since then.
+3. To find the current date, we need to add 176 days to Mar 20, 2020.
+4. Mar 20, 2020 + 176 days = Sep 13, 2020 (using a date calculator or counting the days manually)
+5. So, today's date is Sep 13, 2020.
+6. A month ago would be Aug 13, 2020.
+
+#### 08/13/2020
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 09/12/2019, Predicted: 09/13/2019
+Full response: Let's break it down step by step:
+
+1. Jane quit her job on Mar 20, 2020.
+2. 176 days have passed since then, so we need to add 176 days to Mar 20, 2020 to find today's date.
+
+To do this, we can count the days:
+
+* Mar 20, 2020 + 176 days = Sep 13, 2020 (approximately)
+
+So, today's date is Sep 13, 2020.
+
+3. Now, we need to find the date one year ago from today, which means we need to subtract 1 year from today's date:
+
+* Sep 13, 2020 - 1 year = Sep 13, 2019
+
+#### 09/13/2019
+Example evaluated successfully!
+
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one week from today in MM/DD/YYYY?
+Expected: 09/19/2020, Predicted: 09/20/2020
+Full response: Let's break it down step by step:
+
+1. Jane quit her job on Mar 20, 2020.
+2. 176 days have passed since then.
+3. To find the current date, we need to add 176 days to Mar 20, 2020.
+4. After adding 176 days, we get Sep 13, 2020 (using a date calculator or counting manually).
+5. Today's date is Sep 13, 2020.
+6. One week from today would be Sep 20, 2020.
+
+#### 09/20/2020
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 09/13/2020, Predicted: 09/14/2020
+Full response: Let's break it down step by step:
+
+1. Jane quit her job on Mar 20, 2020.
+2. 176 days have passed since then.
+3. To find the current date, we need to add 176 days to Mar 20, 2020.
+4. After adding 176 days, we get Sep 13, 2020.
+5. The question asks for the date 24 hours later, so we add 1 day to Sep 13, 2020.
+6. The result is Sep 14, 2020.
+
+#### 09/14/2020
+Example: 2015 is coming in 36 hours. What is the date today in MM/DD/YYYY?
+Expected: 12/29/2014, Predicted: 12/30/2014
+Full response: Let's think step by step:
+
+If 2015 is coming in 36 hours, then it is coming in 2 days. 2 days before 01/01/2015 is 12/30/2014, so today is 12/30/2014.
+
+#### 12/30/2014
+Example: 2015 is coming in 36 hours. What is the date tomorrow in MM/DD/YYYY?
+Expected: 12/30/2014, Predicted: 12/31/2014
+Full response: Let's break it down step by step:
+
+If 2015 is coming in 36 hours, then it is coming in 2 days. 2 days before 01/01/2015 is 12/30/2014, so today is 12/30/2014.
+
+To find the date tomorrow, we need to add 1 day to today's date. Therefore, tomorrow's date would be 12/31/2014.
+
+#### 12/31/2014
+Example: 2015 is coming in 36 hours. What is the date yesterday in MM/DD/YYYY?
+Expected: 12/28/2014, Predicted: 12/29/2014
+Full response: Let's break it down step by step:
+
+If 2015 is coming in 36 hours, then it is coming in 2 days. 2 days before 01/01/2015 is 12/30/2014,
+so today is 12/30/2014. Yesterday would be one day before today, which is 12/29/2014.
+
+#### 12/29/2014
+Example: 2015 is coming in 36 hours. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 12/19/2014, Predicted: 12/20/2014
+Full response: Let's break it down step by step:
+
+If 2015 is coming in 36 hours, then it is coming in 2 days. 2 days before 01/01/2015 is 12/30/2014, so today is 12/30/2014.
+
+To find the date 10 days ago, we need to subtract 10 days from today's date:
+
+12/30/2014 - 10 days = 12/20/2014
+
+#### 12/20/2014
+Example: 2015 is coming in 36 hours. What is the date a month ago in MM/DD/YYYY?
+Expected: 11/29/2014, Predicted: 11/30/2014
+Full response: Let's break it down step by step:
+
+If 2015 is coming in 36 hours, then it is coming in 2 days. 2 days before 01/01/2015 is 12/30/2014, so today is 12/30/2014.
+
+A month ago would be November. To find the date a month ago, we need to find the same day of the month in November. Since today is 12/30/2014, a month ago would be 11/30/2014.
+
+#### 11/30/2014
+Example: 2015 is coming in 36 hours. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 12/29/2013, Predicted: 12/30/2013
+Full response: Let's break it down step by step:
+
+If 2015 is coming in 36 hours, then it is coming in 2 days. 2 days before 01/01/2015 is 12/30/2014, so today is 12/30/2014.
+
+One year ago from today would be 12/30/2013.
+
+#### 12/30/2013
+Example: 2015 is coming in 36 hours. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 12/22/2014, Predicted: 12/23/2014
+Full response: Let's break it down step by step:
+
+If 2015 is coming in 36 hours, then it is coming in 2 days. 2 days before 01/01/2015 is 12/30/2014, so today is 12/30/2014.
+
+To find the date one week ago from today, we need to subtract 7 days from today's date. 
+
+One week ago from 12/30/2014 would be 12/23/2014.
+
+#### 12/23/2014
+Example: 2015 is coming in 36 hours. What is the date one week from today in MM/DD/YYYY?
+Expected: 01/05/2015, Predicted: 01/06/2015
+Full response: Let's break it down step by step:
+
+If 2015 is coming in 36 hours, then it is coming in 2 days. 
+2 days before 01/01/2015 is 12/30/2014, 
+so today is 12/30/2014. 
+So one week from today will be 7 days from 12/30/2014. 
+7 days from 12/30/2014 is 01/06/2015.
+
+#### 01/06/2015
+Example: 2015 is coming in 36 hours. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 12/30/2014, Predicted: 12/31/2014
+Full response: Let's break it down step by step:
+
+If 2015 is coming in 36 hours, then it is coming in 2 days. 2 days before 01/01/2015 is 12/30/2014, so today is 12/30/2014.
+
+24 hours later would be 12/31/2014.
+
+#### 12/31/2014
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 12/26/1986, Predicted: 01/25/1987
+Full response: Let's break it down step by step:
+
+If today is 02/01/1987 in the UK format (DD/MM/YYYY), then in the US format (MM/DD/YYYY), today is 01/02/1987.
+
+One week ago from today would be 7 days before today, which is 01/25/1987.
+
+#### 01/25/1987
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jane booked a flight for tomorrow, Jul 29, 2002. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 07/29/2002, Predicted: 07/30/2002
+Full response: Let's break it down step by step:
+
+If Jane booked a flight for tomorrow, Jul 29, 2002, that means today is Jul 28, 2002.
+
+24 hours later would be Jul 29, 2002.
+
+And 24 hours after that would be Jul 30, 2002.
+
+#### 07/30/2002
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 02/23/1973, Predicted: 02/25/1973
+Full response: Let's break it down step by step:
+
+1. Today is 3/5, which means the date today is 03/05/1973.
+2. Since it's Jane's second time to see a meteor shower in 1973, it means she saw one before today. 
+   The first meteor shower she saw must have been on 01/03/1973 (January 3rd).
+3. Now, we need to find the date 10 days ago from today (03/05/1973). 
+   10 days before today would be 02/25/1973.
+
+#### 02/25/1973
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date today in MM/DD/YYYY?
+Expected: 05/06/2002, Predicted: 05/07/2002
+Full response: Let's break it down step by step:
+
+If May 6, 1992 is like yesterday to Jane, that means today is May 7, 1992, but that's actually 10 years ago. So, we need to add 10 years to May 7, 1992.
+
+May 7, 1992 + 10 years = May 7, 2002
+
+#### 05/07/2002
+Example evaluated successfully!
+
+Example: May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date yesterday in MM/DD/YYYY?
+Expected: 05/05/2002, Predicted: 05/06/2002
+Full response: Let's break it down step by step:
+
+If May 6, 1992 is like yesterday to Jane, that means yesterday would be 10 years after May 6, 1992.
+
+May 6, 1992 + 10 years = May 6, 2002
+
+So, yesterday would be May 6, 2002.
+
+#### 05/06/2002
+Example: May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 04/26/2002, Predicted: 04/27/2002
+Full response: Let's break it down step by step:
+
+If May 6, 1992 is like yesterday to Jane, that means today is May 7, 1992.
+
+Since May 6, 1992 is actually 10 years ago, that means the current year is 2002.
+
+So, today's date is 05/07/2002.
+
+To find the date 10 days ago, we subtract 10 days from today's date:
+
+05/07/2002 - 10 days = 04/27/2002
+
+#### 04/27/2002
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date today in MM/DD/YYYY?
+Expected: 07/08/1972, Predicted: 07/08/1974
+Full response: Let's break it down step by step:
+
+If Jane scheduled 3 appointments with 5 people for tomorrow, which is Tuesday, 7/9/1974, then today is Monday, 7/8/1974.
+
+#### 07/08/1974
+Example: Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date tomorrow in MM/DD/YYYY?
+Expected: 07/09/1972, Predicted: 07/09/1974
+Full response: Let's break it down step by step:
+
+Jane scheduled 3 appointments with 5 people for tomorrow (Tue, 7/9/1974).
+
+Today is 7/8/1974, since tomorrow is 7/9/1974.
+
+So, the date tomorrow is 07/09/1974.
+
+#### 07/09/1974
+Example: Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date yesterday in MM/DD/YYYY?
+Expected: 07/07/1972, Predicted: 07/07/1974
+Full response: Let's break it down step by step:
+
+If Jane scheduled 3 appointments with 5 people for tomorrow (Tue, 7/9/1974), that means today is Monday, 7/8/1974.
+
+Yesterday would be one day before today, which is 7/7/1974.
+
+#### 07/07/1974
+Example: Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date 10 days ago in MM/DD/YYYY?
+Expected: 06/28/1972, Predicted: 06/28/1974
+Full response: Let's break it down step by step:
+
+1. Tomorrow is Tue, 7/9/1974, so today is Mon, 7/8/1974.
+2. 10 days ago would be 6/28/1974.
+
+#### 06/28/1974
+Example: Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date a month ago in MM/DD/YYYY?
+Expected: 06/08/1972, Predicted: 06/08/1974
+Full response: Let's break it down step by step:
+
+1. Tomorrow is Tue, 7/9/1974, so today is Mon, 7/8/1974.
+2. A month ago would be 6/8/1974.
+
+#### 06/08/1974
+Example: Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date one year ago from today in MM/DD/YYYY?
+Expected: 07/08/1971, Predicted: 07/09/1973
+Full response: Let's break it down step by step:
+
+1. Today is Tuesday, 7/9/1974 (since tomorrow is 7/9/1974).
+2. One year ago from today would be 7/9/1973.
+
+#### 07/09/1973
+Example: Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date one week ago from today in MM/DD/YYYY?
+Expected: 07/01/1972, Predicted: 07/01/1974
+Full response: Let's break it down step by step:
+
+If Jane scheduled 3 appointments with 5 people for tomorrow (Tue, 7/9/1974), that means today is Monday, 7/8/1974.
+
+One week ago from today would be Monday, 7/1/1974.
+
+#### 07/01/1974
+Example: Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date one week from today in MM/DD/YYYY?
+Expected: 07/15/1972, Predicted: 07/15/1974
+Full response: Let's break it down step by step:
+
+If tomorrow is Tue, 7/9/1974, then today is Mon, 7/8/1974.
+
+One week from today would be Mon, 7/15/1974.
+
+#### 07/15/1974
+Example: Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date 24 hours later in MM/DD/YYYY?
+Expected: 07/09/1972, Predicted: 07/10/1972
+Full response: Let's break it down step by step:
+
+1. Tomorrow is Tue, 7/9/1972.
+2. 24 hours later would be the next day, which is Wednesday.
+3. The date would be 7/10/1972.
+
+#### 07/10/1972
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Today is the second day of the third month of 1966. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 02/20/1966, Predicted: 02/22/1966
+Full response: Let's break it down step by step:
+
+Today is the second day of the third month of 1966, so today is 03/02/1966.
+
+10 days ago would be 02/22/1966.
+
+#### 02/22/1966
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Today is the second day of the third month of 1966. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 02/23/1966, Predicted: 02/25/1966
+Full response: Let's break it down step by step:
+
+Today is the second day of the third month of 1966, so today is 03/02/1966.
+
+One week ago from today would be 7 days before today, which would be 02/25/1966.
+
+#### 02/25/1966
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: The day before yesterday was 11/23/1933. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 11/26/1933, Predicted: 11/25/1933
+Full response: Let's break it down step by step:
+
+The day before yesterday was 11/23/1933, so yesterday was 11/24/1933. 
+24 hours later would be 11/25/1933.
+
+#### 11/25/1933
+Example: In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date today in MM/DD/YYYY?
+Expected: 11/22/2002, Predicted: 11/22/2001
+Full response: Let's break it down step by step:
+
+1. In the US, Thanksgiving is on the fourth Thursday of November.
+2. To find the date of Thanksgiving in 2001, we need to find the fourth Thursday of November 2001.
+3. The month of November 2001 starts on a Thursday (11/01/2001).
+4. The first Thursday of November 2001 is 11/01/2001.
+5. The second Thursday of November 2001 is 11/08/2001.
+6. The third Thursday of November 2001 is 11/15/2001.
+7. The fourth Thursday of November 2001 is 11/22/2001.
+
+#### 11/22/2001
+Example: In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date tomorrow in MM/DD/YYYY?
+Expected: 11/23/2002, Predicted: 11/23/2001
+Full response: Let's break it down step by step:
+
+1. Today is the fourth Thursday of November 2001.
+2. The fourth Thursday of November means that there are three Thursdays in November 2001.
+3. Since today is the fourth Thursday, the first Thursday would be one week ago, which is November 15, 2001.
+4. The second Thursday would be November 22, 2001, and the third Thursday would be November 29, 2001.
+5. Today is the fourth Thursday, which means it is November 22, 2001 (since the 29th is not possible).
+6. Tomorrow would be November 23, 2001.
+
+#### 11/23/2001
+Example: In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date yesterday in MM/DD/YYYY?
+Expected: 11/21/2002, Predicted: 11/21/2001
+Full response: Let's break it down step by step:
+
+1. Today is the US Thanksgiving of 2001, which means it's the fourth Thursday of November 2001.
+2. The fourth Thursday of November 2001 falls on November 22, 2001.
+3. Yesterday would be one day before November 22, 2001, which is November 21, 2001.
+
+#### 11/21/2001
+Example: In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 11/12/2002, Predicted: 11/12/2001
+Full response: Let's break it down step by step:
+
+1. Today is the US Thanksgiving of 2001, which means it's the fourth Thursday of November 2001.
+2. The fourth Thursday of November 2001 falls on November 22, 2001 (you can verify this using a calendar or date calculation tool).
+3. So, today is 11/22/2001.
+4. 10 days ago would be November 12, 2001.
+
+#### 11/12/2001
+Example: In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date a month ago in MM/DD/YYYY?
+Expected: 10/22/2002, Predicted: 10/22/2001
+Full response: Let's break it down step by step:
+
+1. Today is the US Thanksgiving of 2001, which means it's the fourth Thursday of November 2001.
+2. The fourth Thursday of November 2001 is November 22, 2001 (you can verify this using a calendar or date calculation tool).
+3. A month ago would be October 22, 2001.
+
+#### 10/22/2001
+Example: In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 11/22/2001, Predicted: 11/22/2000
+Full response: Let's break it down step by step:
+
+1. Today is the US Thanksgiving of 2001, which means it's the fourth Thursday of November 2001.
+2. To find the date of Thanksgiving in 2001, we need to find the fourth Thursday of November 2001.
+3. November 2001 has 30 days. The first Thursday is on November 1st, the second Thursday is on November 8th, the third Thursday is on November 15th, and the fourth Thursday is on November 22nd.
+4. Therefore, today's date is 11/22/2001.
+5. One year ago from today would be 11/22/2000.
+
+#### 11/22/2000
+Example: In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 11/15/2002, Predicted: 11/15/2001
+Full response: Let's break it down step by step:
+
+1. Today is the US Thanksgiving of 2001, which means it's the fourth Thursday of November 2001.
+2. The fourth Thursday of November 2001 falls on November 22, 2001 (you can verify this using a calendar).
+3. So, today is 11/22/2001.
+4. One week ago from today would be 11/15/2001.
+
+#### 11/15/2001
+Example: In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date one week from today in MM/DD/YYYY?
+Expected: 11/29/2002, Predicted: 11/29/2001
+Full response: Let's break it down step by step:
+
+1. Today is the fourth Thursday of November 2001.
+2. The fourth Thursday of November can fall between November 22nd and November 28th.
+3. Since today is the fourth Thursday, it must be November 22nd, 23rd, 24th, 25th, 26th, 27th, or 28th.
+4. One week from today would be the next Thursday, which would be November 29th.
+
+#### 11/29/2001
+Example: In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 11/23/2002, Predicted: 11/23/2001
+Full response: Let's break it down step by step:
+
+1. Today is the US Thanksgiving of 2001, which means it's the fourth Thursday of November 2001.
+2. The fourth Thursday of November 2001 is November 22, 2001 (you can verify this using a calendar).
+3. Today is November 22, 2001.
+4. 24 hours later would be November 23, 2001.
+
+#### 11/23/2001
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jane is celebrating the last day of Jan 2012. What is the date one week from today in MM/DD/YYYY?
+Expected: 02/06/2012, Predicted: 02/07/2012
+Full response: Let's break it down step by step:
+
+If Jane is celebrating the last day of January 2012, that means today is January 31, 2012.
+
+One week from today would be February 7, 2012.
+
+#### 02/07/2012
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date today in MM/DD/YYYY?
+Expected: 01/02/1961, Predicted: 01/02/1963
+Full response: Let's break it down step by step:
+
+Jane and John married on Jan 2, 1958. It is their 5-year anniversary today.
+
+This means that 5 years have passed since their marriage date.
+
+To find the current date, we need to add 5 years to their marriage date:
+
+Jan 2, 1958 + 5 years = Jan 2, 1963
+
+So, today's date is January 2, 1963.
+
+#### 01/02/1963
+Example: Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date tomorrow in MM/DD/YYYY?
+Expected: 01/03/1961, Predicted: 01/03/1963
+Full response: Let's break it down step by step:
+
+If it's their 5-year anniversary today, that means they got married 5 years ago, which would be 1958.
+Their anniversary is on January 2, so today is January 2, 1963.
+Tomorrow would be January 3, 1963.
+
+#### 01/03/1963
+Example: Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date yesterday in MM/DD/YYYY?
+Expected: 01/01/1961, Predicted: 01/01/1963
+Full response: Let's break it down step by step:
+
+If it's their 5-year anniversary today, that means they got married 5 years ago. Since they got married on January 2, 1958, 5 years later would be January 2, 1963.
+
+So, today is January 2, 1963.
+
+Yesterday would be January 1, 1963.
+
+#### 01/01/1963
+Example: Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 12/23/1960, Predicted: 12/23/1962
+Full response: Let's break it down step by step:
+
+1. Jane and John married on Jan 2, 1958.
+2. It is their 5-year anniversary today, which means 5 years have passed since their marriage.
+3. So, today's date is 5 years after Jan 2, 1958, which is Jan 2, 1963.
+4. Now, we need to find the date 10 days ago, which is Jan 2, 1963 - 10 days = Dec 23, 1962.
+
+#### 12/23/1962
+Example: Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date a month ago in MM/DD/YYYY?
+Expected: 12/02/1960, Predicted: 12/02/1962
+Full response: Let's break it down step by step:
+
+1. Jane and John married on Jan 2, 1958.
+2. It is their 5-year anniversary today, which means 5 years have passed since their marriage.
+3. So, today's date is 5 years after Jan 2, 1958, which is Jan 2, 1963.
+4. A month ago would be December 2, 1962.
+
+#### 12/02/1962
+Example: Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 01/02/1960, Predicted: 01/02/1962
+Full response: Let's break it down step by step:
+
+If Jane and John married on Jan 2, 1958, and it's their 5-year anniversary today, that means today is their anniversary, which is January 2.
+
+Since it's their 5-year anniversary, that means 5 years have passed since they got married. To find the current year, add 5 to the year they got married: 1958 + 5 = 1963.
+
+So, today's date is January 2, 1963.
+
+To find the date one year ago from today, subtract 1 from the current year: 1963 - 1 = 1962.
+
+Therefore, the date one year ago from today is January 2, 1962.
+
+#### 01/02/1962
+Example: Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 12/26/1960, Predicted: 12/26/1962
+Full response: Let's break it down step by step:
+
+If it's their 5-year anniversary today, that means they got married 5 years ago. Since they got married on January 2, 1958, 5 years ago would be 1963.
+
+So, today is January 2, 1963.
+
+One week ago from today would be January 2 - 7 = December 26, 1962.
+
+#### 12/26/1962
+Example: Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date one week from today in MM/DD/YYYY?
+Expected: 01/09/1961, Predicted: 01/09/1963
+Full response: Let's break it down step by step:
+
+If it's their 5-year anniversary today, that means 5 years have passed since their marriage date, which is January 2, 1958. To find today's date, we add 5 years to their marriage date:
+
+1958 + 5 = 1963
+
+So, today's date is January 2, 1963.
+
+To find the date one week from today, we add 7 days to today's date:
+
+January 2, 1963 + 7 days = January 9, 1963
+
+#### 01/09/1963
+Example: Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 01/03/1961, Predicted: 01/03/1963
+Full response: Let's break it down step by step:
+
+If it's their 5-year anniversary today, that means 5 years have passed since their marriage on January 2, 1958. So, today's date would be January 2, 1963.
+
+24 hours later would be January 3, 1963.
+
+#### 01/03/1963
+Example evaluated successfully!
+
+Example: On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date tomorrow in MM/DD/YYYY?
+Expected: 06/19/2017, Predicted: 07/20/2017
+Full response: Let's break it down step by step:
+
+1. Jane bought 40 eggs on May 9th, 2017.
+2. She ate one egg per day.
+3. Today, she ran out of eggs, which means she ate the last egg today.
+4. Since she ate 40 eggs, it took her 40 days to finish them.
+5. Counting 40 days from May 9th, 2017, we get:
+May 9th + 40 days = July 19th, 2017
+6. Today is July 19th, 2017.
+7. Tomorrow will be July 20th, 2017.
+
+#### 07/20/2017
+Example: On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date yesterday in MM/DD/YYYY?
+Expected: 06/17/2017, Predicted: 07/19/2017
+Full response: Let's break it down step by step:
+
+1. Jane bought 40 eggs on May 9th, 2017, which means she had 40 eggs on May 9th, 2017.
+2. She ate one egg per day, so it took her 40 days to finish all the eggs.
+3. Today, she ran out of eggs, which means yesterday she had 1 egg left.
+4. Since she ate one egg per day, yesterday was 40 days after May 9th, 2017.
+5. To find the date 40 days after May 9th, 2017, we can count forward:
+   May 9th + 40 days = July 19th, 2017
+6. So, yesterday was July 19th, 2017.
+
+#### 07/19/2017
+Example: On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 06/08/2017, Predicted: 07/09/2017
+Full response: Let's break it down step by step:
+
+Jane bought 40 eggs on May 9th, 2017, and she ate one per day. Today, she ran out of eggs, which means she finished the 40th egg.
+
+To find the date today, we can count forward 40 days from May 9th, 2017:
+
+May 9th + 40 days = July 19th, 2017
+
+So, today is July 19th, 2017.
+
+To find the date 10 days ago, we can count backward 10 days from July 19th, 2017:
+
+July 19th - 10 days = July 9th, 2017
+
+#### 07/09/2017
+Example: On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date a month ago in MM/DD/YYYY?
+Expected: 05/18/2017, Predicted: 06/19/2017
+Full response: Let's break it down step by step:
+
+1. Jane bought 40 eggs on May 9th, 2017.
+2. She ate one egg per day, so it took her 40 days to finish the eggs.
+3. Today, she ran out of eggs, which means 40 days have passed since May 9th, 2017.
+4. To find the current date, add 40 days to May 9th, 2017: May 9th + 40 days = July 19th, 2017.
+5. Now, to find the date a month ago, subtract 30 days from July 19th, 2017: July 19th - 30 days = June 19th, 2017.
+
+#### 06/19/2017
+Example: On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 06/18/2016, Predicted: 07/19/2016
+Full response: Let's break it down step by step:
+
+1. Jane bought 40 eggs on May 9th, 2017.
+2. She ate one egg per day, so it took her 40 days to finish the eggs.
+3. Today, she ran out of eggs, which means 40 days have passed since May 9th, 2017.
+4. To find the current date, add 40 days to May 9th, 2017:
+May 9th + 40 days = July 19th, 2017 (today's date)
+5. Now, find the date one year ago from today:
+July 19th, 2017 - 1 year = July 19th, 2016
+
+#### 07/19/2016
+Example: On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 06/11/2017, Predicted: 07/12/2017
+Full response: Let's break it down step by step:
+
+1. Jane bought 40 eggs on May 9th, 2017.
+2. She ate one egg per day, so it took her 40 days to finish the eggs.
+3. Today, she ran out of eggs, which means 40 days have passed since May 9th, 2017.
+4. To find the date today, we add 40 days to May 9th, 2017:
+May 9th + 40 days = July 19th, 2017
+5. To find the date one week ago from today, we subtract 7 days from July 19th, 2017:
+July 19th - 7 days = July 12th, 2017
+
+#### 07/12/2017
+Example: On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date one week from today in MM/DD/YYYY?
+Expected: 06/25/2017, Predicted: 07/26/2017
+Full response: Let's break it down step by step:
+
+Jane bought 40 eggs on May 9th, 2017, and she ate one per day. Today, she ran out of eggs, which means she finished the 40th egg.
+
+To find the current date, we can count forward 40 days from May 9th, 2017:
+
+May 9th + 40 days = July 19th, 2017
+
+So, today's date is July 19th, 2017.
+
+To find the date one week from today, we can add 7 days to July 19th, 2017:
+
+July 19th + 7 days = July 26th, 2017
+
+#### 07/26/2017
+Example: On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 06/19/2017, Predicted: 07/20/2017
+Full response: Let's break it down step by step:
+
+1. Jane bought 40 eggs on May 9th, 2017.
+2. She ate one egg per day, so it took her 40 days to finish the eggs.
+3. Today, she ran out of eggs, which means 40 days have passed since May 9th, 2017.
+4. To find the current date, we add 40 days to May 9th, 2017:
+May 9th + 40 days = July 19th, 2017
+5. Today is July 19th, 2017.
+6. 24 hours later would be July 20th, 2017.
+
+#### 07/20/2017
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: Today is the last day of the first quarter of 2008. What is the date a month ago in MM/DD/YYYY?
+Expected: 02/29/2008, Predicted: 02/28/2008
+Full response: Let's break it down step by step:
+
+Today is the last day of the first quarter of 2008, which means today is March 31, 2008.
+
+A month ago would be February 28, 2008 (since February only has 28 days in non-leap years).
+
+#### 02/28/2008
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Accuracy: 0.8211382113821138
+Avg Token #: 87.67479674796748
+Average Latency (s): 4.26904504150556
+P90 Latency (s): 5.630717515945435
+P95 Latency (s): 5.886306047439575
+P99 Latency (s): 6.333401203155518

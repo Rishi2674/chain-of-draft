@@ -8,9 +8,11 @@ from tasks.date import DateUnderstanding
 from tasks.gsm8k import GSM8K
 from tasks.sports import SportsUnderstanding
 from utils import average, nth_percentile
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
 
 MODEL_MAPPING = {
-    "deepseek": "deepseek/deepseek-r1:free",
+    "llama": "llama3-70b-8192",
     "gemini": "google/gemini-2.5-pro-exp-03-25:free",
 }
 

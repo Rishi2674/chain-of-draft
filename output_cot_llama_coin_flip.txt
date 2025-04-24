@@ -1,0 +1,520 @@
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: A coin is heads up. Brett flips the coin. Timothy does not flip the coin. Juan Carlos flips the coin. Reynaldo flips the coin. Is the coin still heads up?
+Expected: No, Predicted: Yes
+Full response: The coin was flipped by Brett, Juan Carlos, and Reynaldo. So the coin was flipped 3 times, then 1 more flip by Brett, which is a total of 4 flips, which is an even number. 
+The coin started heads up, so after an even number of flips, it will still be heads up. 
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: A coin is heads up. Lily flips the coin. Norma does not flip the coin. Trent flips the coin. Manuel flips the coin. Is the coin still heads up?
+Expected: No, Predicted: Yes
+Full response: The coin was flipped by Lily, Trent, and Manuel. So the coin was flipped 3 times, which is an odd number. 
+The coin was flipped once more, which makes it an even number (3 + 1 = 4). 
+The coin started heads up, so after an even number of flips, it will still be heads up. 
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: A coin is heads up. Justin flips the coin. Vicente does not flip the coin. Becky flips the coin. Paul flips the coin. Is the coin still heads up?
+Expected: No, Predicted: Yes
+Full response: The coin was flipped by Justin, Becky, and Paul. So the coin was flipped 3 times, which is an odd number. 
+The coin was flipped once more, which makes it an even number (3 + 1 = 4). 
+The coin started heads up, so after an even number of flips, it will still be heads up. 
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example: A coin is heads up. Kurt flips the coin. Peter does not flip the coin. Dana flips the coin. Lisa flips the coin. Is the coin still heads up?
+Expected: No, Predicted: Yes
+Full response: The coin was flipped by Kurt, Dana, and Lisa. So the coin was flipped 3 times, then 1 more time, which is a total of 4 times, an even number. 
+The coin started heads up, so after an even number of flips, it will still be heads up. 
+#### Yes
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Example evaluated successfully!
+
+Accuracy: 0.984
+Avg Token #: 53.4
+Average Latency (s): 3.585668634414673
+P90 Latency (s): 4.607806921005249
+P95 Latency (s): 4.60987114906311
+P99 Latency (s): 4.710901260375977

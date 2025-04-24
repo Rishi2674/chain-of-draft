@@ -1,0 +1,684 @@
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Yesterday was April 30, 2021. What is the date today in MM/DD/YYYY?
+Expected: 05/01/2021, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Yesterday was April 30, 2021. What is the date tomorrow in MM/DD/YYYY?
+Expected: 05/02/2021, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Yesterday was April 30, 2021. What is the date yesterday in MM/DD/YYYY?
+Expected: 04/30/2021, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Yesterday was April 30, 2021. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 04/21/2021, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Yesterday was April 30, 2021. What is the date a month ago in MM/DD/YYYY?
+Expected: 04/01/2021, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Yesterday was April 30, 2021. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 05/01/2020, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Yesterday was April 30, 2021. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 04/24/2021, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Yesterday was April 30, 2021. What is the date one week from today in MM/DD/YYYY?
+Expected: 05/08/2021, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Yesterday was April 30, 2021. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 05/02/2021, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date today in MM/DD/YYYY?
+Expected: 05/30/2021, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541160000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date tomorrow in MM/DD/YYYY?
+Expected: 05/31/2021, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541160000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date yesterday in MM/DD/YYYY?
+Expected: 05/29/2021, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541160000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 05/20/2021, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date a month ago in MM/DD/YYYY?
+Expected: 04/30/2021, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 05/30/2020, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 05/23/2021, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one week from today in MM/DD/YYYY?
+Expected: 06/06/2021, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 05/31/2021, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Tomorrow is 11/12/2019. What is the date today in MM/DD/YYYY?
+Expected: 11/11/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Tomorrow is 11/12/2019. What is the date tomorrow in MM/DD/YYYY?
+Expected: 11/12/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Tomorrow is 11/12/2019. What is the date yesterday in MM/DD/YYYY?
+Expected: 11/10/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Tomorrow is 11/12/2019. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 11/01/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Tomorrow is 11/12/2019. What is the date a month ago in MM/DD/YYYY?
+Expected: 10/11/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Tomorrow is 11/12/2019. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 11/11/2018, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Tomorrow is 11/12/2019. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 11/04/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Tomorrow is 11/12/2019. What is the date one week from today in MM/DD/YYYY?
+Expected: 11/18/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Tomorrow is 11/12/2019. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 11/12/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today, 8/3/1997, is a day that we will never forget. What is the date today in MM/DD/YYYY?
+Expected: 08/03/1997, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today, 8/3/1997, is a day that we will never forget. What is the date tomorrow in MM/DD/YYYY?
+Expected: 08/04/1997, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today, 8/3/1997, is a day that we will never forget. What is the date yesterday in MM/DD/YYYY?
+Expected: 08/02/1997, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today, 8/3/1997, is a day that we will never forget. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 07/24/1997, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today, 8/3/1997, is a day that we will never forget. What is the date a month ago in MM/DD/YYYY?
+Expected: 07/03/1997, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today, 8/3/1997, is a day that we will never forget. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 08/03/1996, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today, 8/3/1997, is a day that we will never forget. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 07/27/1997, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today, 8/3/1997, is a day that we will never forget. What is the date one week from today in MM/DD/YYYY?
+Expected: 08/10/1997, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today, 8/3/1997, is a day that we will never forget. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 08/04/1997, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today is Sep 9, 1909. What is the date today in MM/DD/YYYY?
+Expected: 09/09/1909, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today is Sep 9, 1909. What is the date tomorrow in MM/DD/YYYY?
+Expected: 09/10/1909, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today is Sep 9, 1909. What is the date yesterday in MM/DD/YYYY?
+Expected: 09/08/1909, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today is Sep 9, 1909. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 08/30/1909, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today is Sep 9, 1909. What is the date a month ago in MM/DD/YYYY?
+Expected: 08/09/1909, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today is Sep 9, 1909. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 09/09/1908, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today is Sep 9, 1909. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 09/02/1909, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today is Sep 9, 1909. What is the date one week from today in MM/DD/YYYY?
+Expected: 09/16/1909, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Today is Sep 9, 1909. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 09/10/1909, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: It is 4/19/1969 today. What is the date today in MM/DD/YYYY?
+Expected: 04/19/1969, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: It is 4/19/1969 today. What is the date tomorrow in MM/DD/YYYY?
+Expected: 04/20/1969, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: It is 4/19/1969 today. What is the date yesterday in MM/DD/YYYY?
+Expected: 04/18/1969, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: It is 4/19/1969 today. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 04/09/1969, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: It is 4/19/1969 today. What is the date a month ago in MM/DD/YYYY?
+Expected: 03/19/1969, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: It is 4/19/1969 today. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 04/19/1968, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: It is 4/19/1969 today. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 04/12/1969, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541220000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: It is 4/19/1969 today. What is the date one week from today in MM/DD/YYYY?
+Expected: 04/26/1969, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: It is 4/19/1969 today. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 04/20/1969, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date today in MM/DD/YYYY?
+Expected: 02/29/2016, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date tomorrow in MM/DD/YYYY?
+Expected: 03/01/2016, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date yesterday in MM/DD/YYYY?
+Expected: 02/28/2016, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 02/19/2016, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date a month ago in MM/DD/YYYY?
+Expected: 01/29/2016, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 02/28/2015, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 02/22/2016, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one week from today in MM/DD/YYYY?
+Expected: 03/07/2016, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 03/01/2016, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date today in MM/DD/YYYY?
+Expected: 02/28/2017, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date tomorrow in MM/DD/YYYY?
+Expected: 03/01/2017, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date yesterday in MM/DD/YYYY?
+Expected: 02/27/2017, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 02/18/2017, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date a month ago in MM/DD/YYYY?
+Expected: 01/28/2017, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 02/28/2016, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 02/21/2017, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date one week from today in MM/DD/YYYY?
+Expected: 03/07/2017, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 03/01/2017, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date today in MM/DD/YYYY?
+Expected: 01/02/2008, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date tomorrow in MM/DD/YYYY?
+Expected: 01/03/2008, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date yesterday in MM/DD/YYYY?
+Expected: 01/01/2008, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 12/23/2007, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date a month ago in MM/DD/YYYY?
+Expected: 12/02/2007, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 01/02/2007, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 12/26/2007, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date one week from today in MM/DD/YYYY?
+Expected: 01/09/2008, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 01/03/2008, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date today in MM/DD/YYYY?
+Expected: 12/01/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date tomorrow in MM/DD/YYYY?
+Expected: 12/02/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date yesterday in MM/DD/YYYY?
+Expected: 11/30/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 11/21/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date a month ago in MM/DD/YYYY?
+Expected: 11/01/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 12/01/2018, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 11/24/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one week from today in MM/DD/YYYY?
+Expected: 12/08/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 12/02/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date today in MM/DD/YYYY?
+Expected: 09/12/2020, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date tomorrow in MM/DD/YYYY?
+Expected: 09/13/2020, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date yesterday in MM/DD/YYYY?
+Expected: 09/11/2020, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 09/02/2020, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541280000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date a month ago in MM/DD/YYYY?
+Expected: 08/12/2020, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 09/12/2019, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 09/05/2020, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one week from today in MM/DD/YYYY?
+Expected: 09/19/2020, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 09/13/2020, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: 2015 is coming in 36 hours. What is the date today in MM/DD/YYYY?
+Expected: 12/29/2014, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: 2015 is coming in 36 hours. What is the date tomorrow in MM/DD/YYYY?
+Expected: 12/30/2014, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: 2015 is coming in 36 hours. What is the date yesterday in MM/DD/YYYY?
+Expected: 12/28/2014, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: 2015 is coming in 36 hours. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 12/19/2014, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: 2015 is coming in 36 hours. What is the date a month ago in MM/DD/YYYY?
+Expected: 11/29/2014, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744588800000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: 2015 is coming in 36 hours. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 12/29/2013, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541340000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: 2015 is coming in 36 hours. What is the date one week ago from today in MM/DD/YYYY?
+Expected: 12/22/2014, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541340000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: 2015 is coming in 36 hours. What is the date one week from today in MM/DD/YYYY?
+Expected: 01/05/2015, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541340000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: 2015 is coming in 36 hours. What is the date 24 hours later in MM/DD/YYYY?
+Expected: 12/30/2014, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541340000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date today in MM/DD/YYYY?
+Expected: 01/02/1987, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541340000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date tomorrow in MM/DD/YYYY?
+Expected: 01/03/1987, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541340000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date yesterday in MM/DD/YYYY?
+Expected: 01/01/1987, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541340000'}, 'provider_name': 'Chutes'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date 10 days ago in MM/DD/YYYY?
+Expected: 12/23/1986, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541340000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date a month ago in MM/DD/YYYY?
+Expected: 12/02/1986, Predicted: N/A
+Full response: Choices Error
+Unexpected response format: {'error': {'message': 'Rate limit exceeded: free-models-per-min. undefined', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1744541340000'}, 'provider_name': 'Targon'}}, 'user_id': 'user_2vAproTFDBW24T45LYBa6hFbWBJ'}
+Failed to extract answer from the following response:
+Choices Error
+Example: In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date one year ago from today in MM/DD/YYYY?
+Expected: 01/02/1986, Predicted: N/A
+Full response: Choices Error
