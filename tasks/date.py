@@ -4,7 +4,7 @@ from typing import List
 import re
 
 from llm_client import LLMClient
-from tasks.base import Task
+from dataset_generator import Task
 from utils import Example
 
 

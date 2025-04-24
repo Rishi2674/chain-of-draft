@@ -12,14 +12,14 @@ import sys
 sys.stdout.reconfigure(encoding='utf-8')
 
 MODEL_MAPPING = {
-    "llama": "  ",
+    "llama": "llama3-70b-8192",
     "gemini": "google/gemini-2.5-pro-exp-03-25:free",
 }
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--task", choices=["gsm8k", "date", "sports", "coin_flip"])
-    parser.add_argument("--model", default="deepseek")
+    parser.add_argument("--model", default="llama")
     parser.add_argument(
         "--prompt",
         choices=["baseline", "cod", "cot"],
