@@ -1,7 +1,6 @@
 import argparse
 import csv
 import os
-
 from llm_client import LLMClient
 from tasks.coin_flip import CoinFlip
 from tasks.date import DateUnderstanding
@@ -13,7 +12,6 @@ sys.stdout.reconfigure(encoding='utf-8')
 
 MODEL_MAPPING = {
     "llama": "llama3-70b-8192",
-    "gemini": "google/gemini-2.5-pro-exp-03-25:free",
 }
 
 if __name__ == "__main__":
