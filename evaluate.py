@@ -12,7 +12,7 @@ import sys
 sys.stdout.reconfigure(encoding='utf-8')
 
 MODEL_MAPPING = {
-    "llama": "llama3-70b-8192",
+    "llama": "  ",
     "gemini": "google/gemini-2.5-pro-exp-03-25:free",
 }
 
