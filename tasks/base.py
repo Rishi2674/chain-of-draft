@@ -3,7 +3,7 @@ from abc import ABC, abstractmethod
 from typing import List, Literal
 
 from tqdm import tqdm
-
+from conciseness_estimator.predict_strategy import predict_strategy
 from llm_client import LLMClient
 from utils import Config, Example, compose_request, load_config
 

@@ -1,5 +1,5 @@
 system_prompt: |
-  Think step by step, but only keep minimum draft for each thinking step, with 3 words at most.Do not use any external tools.
+  Think step by step, but only keep minimum draft for each thinking step, with 3ven words at most.Do not use any external tools.
   Return the "Yes" or "No" at the end of the response after a separator ####.
 format: |
   Q: {question}
