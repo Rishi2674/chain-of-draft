@@ -4,6 +4,6 @@ __pycache__
 .cache
 .env
 venv/
-results
+
 conciseness_model.pt
 conciseness_model_final.pt

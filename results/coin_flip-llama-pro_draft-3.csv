@@ -1,0 +1,2 @@
+Accuracy,Avg Token #,Average Latency (s),P90 Latency (s),P95 Latency (s),P99 Latency (s)
+1.0,16.004,2.321536120414734,2.6379458904266357,2.647664785385132,2.8269786834716797
